@@ -126,7 +126,7 @@
             "last_commit": "2024-07-12T02:00:38Z",
             "owner": "ljy0ustc",
             "repo": "LLaRA",
-            "stars": 166
+            "stars": 167
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2024-05-14T06:17:29Z",
             "owner": "rainym00d",
             "repo": "LLM4RS",
-            "stars": 177
+            "stars": 176
           }
         },
         {
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T21:59:54.615Z",
+    "last_updated": "2026-08-14T21:37:20.564Z",
     "original_repository": "nancheng58/Awesome-LLM4RS-Papers",
     "original_repository_sha": "760406b5fe5c6ff8a78996e19203cdf1f94273a8",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM4RS-Papers",
