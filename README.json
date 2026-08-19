@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 708685675,
             "language": "Python",
             "last_commit": "2024-06-26T19:57:38Z",
             "owner": "HKUDS",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 630039567,
             "language": "Python",
             "last_commit": "2025-03-04T20:23:01Z",
             "owner": "agiresearch",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 640615859,
             "language": "Python",
             "last_commit": "2025-05-15T08:20:54Z",
             "owner": "RUCAIBox",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 625803775,
             "language": "Python",
             "last_commit": "2024-02-05T06:17:58Z",
             "owner": "SAI990323",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 719090224,
             "language": "Python",
             "last_commit": "2024-09-09T13:21:59Z",
             "owner": "RUCAIBox",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 709009462,
             "language": "Python",
             "last_commit": "2024-04-25T21:30:05Z",
             "owner": "Yueeeeeeee",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 809363632,
             "language": "Python",
             "last_commit": "2024-09-24T13:20:23Z",
             "owner": "HKUDS",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 754577697,
             "language": "Python",
             "last_commit": "2025-04-01T05:09:56Z",
             "owner": "ghdtjr",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 716571216,
             "language": "Python",
             "last_commit": "2024-07-12T02:00:38Z",
             "owner": "ljy0ustc",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 624447632,
             "language": "Python",
             "last_commit": "2023-05-09T09:41:33Z",
             "owner": "AGI-Edgerunners",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 670507850,
             "language": "Jupyter Notebook",
             "last_commit": "2024-02-05T15:39:06Z",
             "owner": "dh-r",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 639241820,
             "language": "Python",
             "last_commit": "2025-02-15T06:18:24Z",
             "owner": "Jyonn",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 679541793,
             "language": "Python",
             "last_commit": "2023-08-22T04:06:32Z",
             "owner": "AaronHeee",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 787583244,
             "language": "Jupyter Notebook",
             "last_commit": "2024-09-04T17:34:35Z",
             "owner": "dayuyang1999",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 643799379,
             "language": "Python",
             "last_commit": "2023-10-11T07:30:32Z",
             "owner": "RUCAIBox",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 650085709,
             "language": "Python",
             "last_commit": "2023-08-19T06:01:07Z",
             "owner": "williamliujl",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 679789014,
             "language": "Jupyter Notebook",
             "last_commit": "2024-03-08T08:53:05Z",
             "owner": "LaVieEnRose365",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 685351545,
             "language": "Python",
             "last_commit": "2024-01-24T08:23:27Z",
             "owner": "HestiaSky",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 804800928,
             "language": "Python",
             "last_commit": "2026-06-20T15:40:21Z",
             "owner": "liuqidong07",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 864068774,
             "language": "Python",
             "last_commit": "2025-03-13T13:31:23Z",
             "owner": "liuqidong07",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 674986561,
             "language": "Python",
             "last_commit": "2025-01-24T02:10:13Z",
             "owner": "lileipisces",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 747076938,
             "language": "Jupyter Notebook",
             "last_commit": "2025-11-03T03:12:33Z",
             "owner": "ysh-1998",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 756627608,
             "language": "Python",
             "last_commit": "2025-05-23T10:07:00Z",
             "owner": "WangXFng",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 703634674,
             "language": "Python",
             "last_commit": "2024-02-04T13:57:57Z",
             "owner": "demoleiwang",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 748597240,
             "language": "Python",
             "last_commit": "2024-01-26T14:57:36Z",
             "owner": "maowenyu-11",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 777789991,
             "language": "Python",
             "last_commit": "2024-04-21T10:08:03Z",
             "owner": "ysh-1998",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 753599969,
             "language": "Python",
             "last_commit": "2024-04-01T16:21:19Z",
             "owner": "RUCAIBox",
@@ -382,95 +409,96 @@
           }
         },
         {
-          "node_type": "item",
-          "title": "Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations, arxiv 2024, [paper]",
-          "description": "[code]",
-          "children": []
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LLMRec: Large Language Models with Graph Augmentation for Recommendation, WSDM 2024, [paper]",
+              "description": ", [code], [blog in Chinese].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 708601315,
+                "language": "Python",
+                "last_commit": "2024-06-10T06:39:28Z",
+                "owner": "HKUDS",
+                "repo": "LLMRec",
+                "stars": 537
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models, arxiv 2023, [paper]",
+              "description": ", [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 709107428,
+                "language": "Python",
+                "last_commit": "2024-11-14T11:15:07Z",
+                "owner": "YunjiaXi",
+                "repo": "Open-World-Knowledge-Augmented-Recommendation",
+                "stars": 113
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Knowledge Augmentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Uncovering ChatGPT's Capabilities in Recommender Systems, RecSys 2023 LBR, [paper]",
+              "description": ", [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 605570569,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-05-14T06:17:29Z",
+                "owner": "rainym00d",
+                "repo": "LLM4RS",
+                "stars": 176
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Where to Go Next for Recommender Systems? ID- vs.Modality-based recommender models revisited, SIGIR 2023, [paper]",
+              "description": ", [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 627481378,
+                "language": "Python",
+                "last_commit": "2025-02-02T01:12:02Z",
+                "owner": "westlake-repl",
+                "repo": "IDvs.MoRec",
+                "stars": 168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation, RecSys 2023 Short Paper, [paper]",
+              "description": ", [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 639864416,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-06-15T13:10:33Z",
+                "owner": "jizhi-zhang",
+                "repo": "FaiRLLM",
+                "stars": 44
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Perspective"
         }
       ],
       "title": "Paper List"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LLMRec: Large Language Models with Graph Augmentation for Recommendation, WSDM 2024, [paper]",
-          "description": ", [code], [blog in Chinese].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-10T06:39:28Z",
-            "owner": "HKUDS",
-            "repo": "LLMRec",
-            "stars": 537
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models, arxiv 2023, [paper]",
-          "description": ", [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-11-14T11:15:07Z",
-            "owner": "YunjiaXi",
-            "repo": "Open-World-Knowledge-Augmented-Recommendation",
-            "stars": 113
-          }
-        }
-      ],
-      "title": "Knowledge Augmentation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Uncovering ChatGPT's Capabilities in Recommender Systems, RecSys 2023 LBR, [paper]",
-          "description": ", [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-05-14T06:17:29Z",
-            "owner": "rainym00d",
-            "repo": "LLM4RS",
-            "stars": 176
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Where to Go Next for Recommender Systems? ID- vs.Modality-based recommender models revisited, SIGIR 2023, [paper]",
-          "description": ", [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-02T01:12:02Z",
-            "owner": "westlake-repl",
-            "repo": "IDvs.MoRec",
-            "stars": 168
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation, RecSys 2023 Short Paper, [paper]",
-          "description": ", [code].",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-06-15T13:10:33Z",
-            "owner": "jizhi-zhang",
-            "repo": "FaiRLLM",
-            "stars": 44
-          }
-        }
-      ],
-      "title": "Perspective"
     },
     {
       "description": "Github Repository: \"Universal_user_representations for recommendation\" [link].",
@@ -482,6 +510,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 497198670,
             "language": "Python",
             "last_commit": "2023-11-29T09:37:26Z",
             "owner": "RUCAIBox",
@@ -496,6 +525,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 262513671,
             "language": "Python",
             "last_commit": "2024-03-15T03:43:29Z",
             "owner": "fajieyuan",
@@ -510,11 +540,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 710588578,
             "language": "Python",
             "last_commit": "2024-08-07T05:35:42Z",
             "owner": "yaochenzhu",
             "repo": "LLM4Rec",
-            "stars": 173
+            "stars": 174
           }
         },
         {
@@ -524,6 +555,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 599473000,
             "language": "Python",
             "last_commit": "2023-03-27T15:18:01Z",
             "owner": "RUCAIBox",
@@ -538,6 +570,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 363842477,
             "language": "Python",
             "last_commit": "2024-03-15T03:42:37Z",
             "owner": "fajieyuan",
@@ -549,7 +582,7 @@
       "title": "Universal Representation Learning"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -558,6 +591,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159771840,
             "language": "Python",
             "last_commit": "2024-03-28T02:13:10Z",
             "owner": "fajieyuan",
@@ -572,6 +606,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241027758,
             "language": "Python",
             "last_commit": "2024-03-25T08:49:44Z",
             "owner": "fajieyuan",
@@ -592,6 +627,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 519920959,
             "language": "Python",
             "last_commit": "2023-10-09T02:45:58Z",
             "owner": "jeykigung",
@@ -606,6 +642,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 632824793,
             "language": "Python",
             "last_commit": "2023-05-08T08:12:40Z",
             "owner": "zhaijianyang",
@@ -617,7 +654,7 @@
       "title": "Pretrain Language Model and Prompt Learning"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -626,6 +663,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 694946338,
             "language": "Python",
             "last_commit": "2026-03-19T13:25:17Z",
             "owner": "westlake-repl",
@@ -640,6 +678,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 692620761,
             "language": "Python",
             "last_commit": "2025-03-19T11:49:38Z",
             "owner": "westlake-repl",
@@ -654,11 +693,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 693014779,
             "language": "Python",
             "last_commit": "2024-10-06T11:46:10Z",
             "owner": "westlake-repl",
             "repo": "NineRec",
-            "stars": 111
+            "stars": 112
           }
         },
         {
@@ -668,6 +708,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 754550804,
             "language": "Python",
             "last_commit": "2024-03-27T07:31:00Z",
             "owner": "andreeaiana",
@@ -680,8 +721,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:36:01.498Z",
+    "last_updated": "2026-08-19T12:07:59.066Z",
     "original_repository": "nancheng58/Awesome-LLM4RS-Papers",
+    "original_repository_id": 639286908,
     "original_repository_sha": "760406b5fe5c6ff8a78996e19203cdf1f94273a8",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM4RS-Papers",
     "enhanced_repository_description": null,
