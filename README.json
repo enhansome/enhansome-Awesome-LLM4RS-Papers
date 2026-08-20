@@ -422,7 +422,7 @@
                 "last_commit": "2024-06-10T06:39:28Z",
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 537
+                "stars": 538
               }
             },
             {
@@ -721,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T21:37:16.437Z",
+    "last_updated": "2026-08-20T21:40:34.137Z",
     "original_repository": "nancheng58/Awesome-LLM4RS-Papers",
     "original_repository_id": 639286908,
     "original_repository_sha": "760406b5fe5c6ff8a78996e19203cdf1f94273a8",

@@ -159,7 +159,7 @@ Welcome to open an issue or make a pull request!
 * Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems, EMNLP 2025, [\[paper\]](https://aclanthology.org/2025.emnlp-main.956).
 * When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2306.02552).
 * RecMind: Large Language Model Powered Agent For Recommendation, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2308.14296).
-* On Generative Agents in Recommendation, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2310.10108), [\[code\]](https://github.com/LehengTHU/Agent4Rec) ⭐ 496 | 🐛 4 | 🌐 Python | 📅 2024-07-07.
+* On Generative Agents in Recommendation, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2310.10108), [\[code\]](https://github.com/LehengTHU/Agent4Rec) ⭐ 497 | 🐛 4 | 🌐 Python | 📅 2024-07-07.
 * AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2310.09233).
 * Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations [\[link\]](https://arxiv.org/pdf/2308.16505.pdf)
 * Balancing Information Perception with Yin-Yang: Agent-Based Information Neutrality Model for Recommendation Systems, arxiv 2024, [\[paper\]](http://arxiv.org/pdf/2404.04906)
@@ -169,7 +169,7 @@ Welcome to open an issue or make a pull request!
 
 ### Knowledge Augmentation
 
-* LLMRec: Large Language Models with Graph Augmentation for Recommendation, WSDM 2024, [\[paper\]](https://arxiv.org/pdf/2311.00423), [\[code\]](https://github.com/HKUDS/LLMRec) ⭐ 537 | 🐛 16 | 🌐 Python | 📅 2024-06-10, [\[blog in Chinese\]](https://mp.weixin.qq.com/s/aU-uzLWH6xfIuoon-Zq8Cg).
+* LLMRec: Large Language Models with Graph Augmentation for Recommendation, WSDM 2024, [\[paper\]](https://arxiv.org/pdf/2311.00423), [\[code\]](https://github.com/HKUDS/LLMRec) ⭐ 538 | 🐛 16 | 🌐 Python | 📅 2024-06-10, [\[blog in Chinese\]](https://mp.weixin.qq.com/s/aU-uzLWH6xfIuoon-Zq8Cg).
 * Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2306.10933), [\[code\]](https://github.com/YunjiaXi/Open-World-Knowledge-Augmented-Recommendation) ⭐ 113 | 🐛 7 | 🌐 Python | 📅 2024-11-14.
 * Enhancing Recommender Systems with Large Language Model Reasoning Graphs, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2308.10835).
 * Knowledge Adaptation from Large Language Model to Recommendation for Practical Industrial Application, arxiv 2024, [\[paper\]](https://arxiv.org/pdf/2405.03988).
@@ -231,4 +231,4 @@ Welcome to open an issue or make a pull request!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
