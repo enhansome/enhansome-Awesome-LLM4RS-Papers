@@ -27,7 +27,7 @@ Welcome to open an issue or make a pull request!
 * OpenP5: An Open-Source Platform for Developing, Training, and Evaluating LLM-based Recommender Systems, Sigir 2024, [\[paper\]](https://arxiv.org/pdf/2310.09233), [\[code\]](https://github.com/agiresearch/OpenP5) ⭐ 349 | 🐛 6 | 🌐 Python | 📅 2025-03-04
 * Large Language Models are Zero-Shot Rankers for Recommender Systems, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2305.08845), [\[code\]](https://github.com/RUCAIBox/LLMRank) ⭐ 324 | 🐛 6 | 🌐 Python | 📅 2025-05-15.
 * TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation, RecSys 2023 Short Paper, [\[paper\]](https://arxiv.org/pdf/2305.00447), [\[code\]](https://github.com/SAI990323/TALLRec) ⭐ 283 | 🐛 7 | 🌐 Python | 📅 2024-02-05.
-* Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2311.09049), [\[code\]](https://github.com/RUCAIBox/LC-Rec/) ⭐ 235 | 🐛 14 | 🌐 Python | 📅 2024-09-09.
+* Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2311.09049), [\[code\]](https://github.com/RUCAIBox/LC-Rec/) ⭐ 236 | 🐛 14 | 🌐 Python | 📅 2024-09-09.
 * LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, arxiv 2023, [\[paper\]](https://github.com/Yueeeeeeee/LlamaRec/blob/main/media/paper.pdf) ⭐ 173 | 🐛 4 | 🌐 Python | 📅 2024-04-25, [\[code\]](https://github.com/Yueeeeeeee/LlamaRec) ⭐ 173 | 🐛 4 | 🌐 Python | 📅 2024-04-25.
 * XRec: Large Language Models for Explainable Recommendation, arxiv 2024, \[\[paper]]\(XRec: Large Language Models for Explainable Recommendation), [\[code\]](https://github.com/hkuds/xrec) ⭐ 170 | 🐛 6 | 🌐 Python | 📅 2024-09-24
 * A-LLMRec: Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System, KDD 2024, [\[paper\]](https://arxiv.org/pdf/2406.02844), [\[code\]](https://github.com/ghdtjr/A-LLMRec) ⭐ 170 | 🐛 8 | 🌐 Python | 📅 2025-04-01
@@ -194,7 +194,7 @@ Welcome to open an issue or make a pull request!
 * Towards Universal Sequence Representation Learning for Recommender Systems, KDD 2022, [\[paper\]](https://arxiv.org/pdf/2206.05941), [\[code\]](https://github.com/RUCAIBox/UniSRec) ⭐ 225 | 🐛 11 | 🌐 Python | 📅 2023-11-29.
 * Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020, [\[paper\]](https://arxiv.org/pdf/2001.04253), [\[code\]](https://github.com/fajieyuan/SIGIR2020_peterrec) ⭐ 207 | 🐛 11 | 🌐 Python | 📅 2024-03-15
 * Collaborative Large Language Model for Recommender Systems, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2311.01343), [\[code\]](https://github.com/yaochenzhu/llm4rec) ⭐ 174 | 🐛 5 | 🌐 Python | 📅 2024-08-07.
-* Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders, WWW 2023, [\[paper\]](https://arxiv.org/pdf/2210.12316), [\[code\]](https://github.com/RUCAIBox/VQ-Rec) ⭐ 102 | 🐛 2 | 🌐 Python | 📅 2023-03-27.
+* Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders, WWW 2023, [\[paper\]](https://arxiv.org/pdf/2210.12316), [\[code\]](https://github.com/RUCAIBox/VQ-Rec) ⭐ 103 | 🐛 2 | 🌐 Python | 📅 2023-03-27.
 * One Person, One Model, One World: Learning Continual User Representation without Forgetting, SIGIR 2021, [\[paper\]](https://arxiv.org/pdf/2009.13724.pdf), [\[code\]](https://github.com/fajieyuan/SIGIR2021_Conure) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2024-03-15
 * ID-Agnostic User Behavior Pre-training for Sequential Recommendation, CCIR 2022, [\[paper\]](https://arxiv.org/pdf/2206.02323).
 * TransRec: learning transferable recommendation from mixture-of-modality feedback, arxiv 2022, [\[paper\]](https://arxiv.org/pdf/2206.06190).
@@ -231,4 +231,4 @@ Welcome to open an issue or make a pull request!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

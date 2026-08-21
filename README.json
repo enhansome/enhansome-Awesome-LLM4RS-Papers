@@ -75,7 +75,7 @@
             "last_commit": "2024-09-09T13:21:59Z",
             "owner": "RUCAIBox",
             "repo": "LC-Rec",
-            "stars": 235
+            "stars": 236
           }
         },
         {
@@ -560,7 +560,7 @@
             "last_commit": "2023-03-27T15:18:01Z",
             "owner": "RUCAIBox",
             "repo": "VQ-Rec",
-            "stars": 102
+            "stars": 103
           }
         },
         {
@@ -721,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:40:34.137Z",
+    "last_updated": "2026-08-21T21:36:30.699Z",
     "original_repository": "nancheng58/Awesome-LLM4RS-Papers",
     "original_repository_id": 639286908,
     "original_repository_sha": "760406b5fe5c6ff8a78996e19203cdf1f94273a8",
