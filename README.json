@@ -412,6 +412,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "On Generative Agents in Recommendation, arxiv 2023, [paper]",
+              "description": ", [code].",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 703832941,
+                "language": "Python",
+                "last_commit": "2024-07-07T05:45:01Z",
+                "owner": "LehengTHU",
+                "repo": "Agent4Rec",
+                "stars": 498
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Agent4Rec"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "LLMRec: Large Language Models with Graph Augmentation for Recommendation, WSDM 2024, [paper]",
               "description": ", [code], [blog in Chinese].",
               "children": [],
@@ -560,7 +582,7 @@
             "last_commit": "2023-03-27T15:18:01Z",
             "owner": "RUCAIBox",
             "repo": "VQ-Rec",
-            "stars": 103
+            "stars": 104
           }
         },
         {
@@ -721,7 +743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:33:55.930Z",
+    "last_updated": "2026-08-24T14:17:05.360Z",
     "original_repository": "nancheng58/Awesome-LLM4RS-Papers",
     "original_repository_id": 639286908,
     "original_repository_sha": "760406b5fe5c6ff8a78996e19203cdf1f94273a8",

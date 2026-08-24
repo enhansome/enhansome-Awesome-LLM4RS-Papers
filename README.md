@@ -155,11 +155,11 @@ Welcome to open an issue or make a pull request!
 
 ### Agent4Rec
 
+* On Generative Agents in Recommendation, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2310.10108), [\[code\]](https://github.com/LehengTHU/Agent4Rec) ⭐ 498 | 🐛 4 | 🌐 Python | 📅 2024-07-07.
 * AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation, arxiv 2026, [\[paper\]](https://arxiv.org/pdf/2601.00930).
 * Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems, EMNLP 2025, [\[paper\]](https://aclanthology.org/2025.emnlp-main.956).
 * When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2306.02552).
 * RecMind: Large Language Model Powered Agent For Recommendation, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2308.14296).
-* On Generative Agents in Recommendation, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2310.10108), [\[code\]](https://github.com/LehengTHU/Agent4Rec) ⭐ 498 | 🐛 4 | 🌐 Python | 📅 2024-07-07.
 * AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2310.09233).
 * Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations [\[link\]](https://arxiv.org/pdf/2308.16505.pdf)
 * Balancing Information Perception with Yin-Yang: Agent-Based Information Neutrality Model for Recommendation Systems, arxiv 2024, [\[paper\]](http://arxiv.org/pdf/2404.04906)
@@ -194,7 +194,7 @@ Welcome to open an issue or make a pull request!
 * Towards Universal Sequence Representation Learning for Recommender Systems, KDD 2022, [\[paper\]](https://arxiv.org/pdf/2206.05941), [\[code\]](https://github.com/RUCAIBox/UniSRec) ⭐ 225 | 🐛 11 | 🌐 Python | 📅 2023-11-29.
 * Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020, [\[paper\]](https://arxiv.org/pdf/2001.04253), [\[code\]](https://github.com/fajieyuan/SIGIR2020_peterrec) ⭐ 207 | 🐛 11 | 🌐 Python | 📅 2024-03-15
 * Collaborative Large Language Model for Recommender Systems, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2311.01343), [\[code\]](https://github.com/yaochenzhu/llm4rec) ⭐ 174 | 🐛 5 | 🌐 Python | 📅 2024-08-07.
-* Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders, WWW 2023, [\[paper\]](https://arxiv.org/pdf/2210.12316), [\[code\]](https://github.com/RUCAIBox/VQ-Rec) ⭐ 103 | 🐛 2 | 🌐 Python | 📅 2023-03-27.
+* Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders, WWW 2023, [\[paper\]](https://arxiv.org/pdf/2210.12316), [\[code\]](https://github.com/RUCAIBox/VQ-Rec) ⭐ 104 | 🐛 2 | 🌐 Python | 📅 2023-03-27.
 * One Person, One Model, One World: Learning Continual User Representation without Forgetting, SIGIR 2021, [\[paper\]](https://arxiv.org/pdf/2009.13724.pdf), [\[code\]](https://github.com/fajieyuan/SIGIR2021_Conure) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2024-03-15
 * ID-Agnostic User Behavior Pre-training for Sequential Recommendation, CCIR 2022, [\[paper\]](https://arxiv.org/pdf/2206.02323).
 * TransRec: learning transferable recommendation from mixture-of-modality feedback, arxiv 2022, [\[paper\]](https://arxiv.org/pdf/2206.06190).
@@ -231,4 +231,4 @@ Welcome to open an issue or make a pull request!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
