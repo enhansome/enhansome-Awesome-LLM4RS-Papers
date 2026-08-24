@@ -170,7 +170,7 @@ Welcome to open an issue or make a pull request!
 ### Knowledge Augmentation
 
 * LLMRec: Large Language Models with Graph Augmentation for Recommendation, WSDM 2024, [\[paper\]](https://arxiv.org/pdf/2311.00423), [\[code\]](https://github.com/HKUDS/LLMRec) ⭐ 538 | 🐛 16 | 🌐 Python | 📅 2024-06-10, [\[blog in Chinese\]](https://mp.weixin.qq.com/s/aU-uzLWH6xfIuoon-Zq8Cg).
-* Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2306.10933), [\[code\]](https://github.com/YunjiaXi/Open-World-Knowledge-Augmented-Recommendation) ⭐ 113 | 🐛 7 | 🌐 Python | 📅 2024-11-14.
+* Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2306.10933), [\[code\]](https://github.com/YunjiaXi/Open-World-Knowledge-Augmented-Recommendation) ⭐ 112 | 🐛 7 | 🌐 Python | 📅 2024-11-14.
 * Enhancing Recommender Systems with Large Language Model Reasoning Graphs, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2308.10835).
 * Knowledge Adaptation from Large Language Model to Recommendation for Practical Industrial Application, arxiv 2024, [\[paper\]](https://arxiv.org/pdf/2405.03988).
 
