@@ -422,7 +422,7 @@
                 "last_commit": "2024-07-07T05:45:01Z",
                 "owner": "LehengTHU",
                 "repo": "Agent4Rec",
-                "stars": 498
+                "stars": 499
               }
             }
           ],
@@ -537,7 +537,7 @@
             "last_commit": "2023-11-29T09:37:26Z",
             "owner": "RUCAIBox",
             "repo": "UniSRec",
-            "stars": 225
+            "stars": 226
           }
         },
         {
@@ -720,7 +720,7 @@
             "last_commit": "2024-10-06T11:46:10Z",
             "owner": "westlake-repl",
             "repo": "NineRec",
-            "stars": 112
+            "stars": 113
           }
         },
         {
@@ -743,7 +743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:41:05.299Z",
+    "last_updated": "2026-08-27T00:46:02.391Z",
     "original_repository": "nancheng58/Awesome-LLM4RS-Papers",
     "original_repository_id": 639286908,
     "original_repository_sha": "760406b5fe5c6ff8a78996e19203cdf1f94273a8",

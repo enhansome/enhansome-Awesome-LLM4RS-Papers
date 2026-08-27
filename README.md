@@ -155,7 +155,7 @@ Welcome to open an issue or make a pull request!
 
 ### Agent4Rec
 
-* On Generative Agents in Recommendation, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2310.10108), [\[code\]](https://github.com/LehengTHU/Agent4Rec) ⭐ 498 | 🐛 4 | 🌐 Python | 📅 2024-07-07.
+* On Generative Agents in Recommendation, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2310.10108), [\[code\]](https://github.com/LehengTHU/Agent4Rec) ⭐ 499 | 🐛 4 | 🌐 Python | 📅 2024-07-07.
 * AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation, arxiv 2026, [\[paper\]](https://arxiv.org/pdf/2601.00930).
 * Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems, EMNLP 2025, [\[paper\]](https://aclanthology.org/2025.emnlp-main.956).
 * When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2306.02552).
@@ -191,7 +191,7 @@ Welcome to open an issue or make a pull request!
 
 **Github Repository: "Universal\_user\_representations for recommendation" [\[link\]](https://github.com/fajieyuan/universal_user_representation) ⭐ 25 | 🐛 0 | 📅 2024-03-01**.
 
-* Towards Universal Sequence Representation Learning for Recommender Systems, KDD 2022, [\[paper\]](https://arxiv.org/pdf/2206.05941), [\[code\]](https://github.com/RUCAIBox/UniSRec) ⭐ 225 | 🐛 11 | 🌐 Python | 📅 2023-11-29.
+* Towards Universal Sequence Representation Learning for Recommender Systems, KDD 2022, [\[paper\]](https://arxiv.org/pdf/2206.05941), [\[code\]](https://github.com/RUCAIBox/UniSRec) ⭐ 226 | 🐛 11 | 🌐 Python | 📅 2023-11-29.
 * Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020, [\[paper\]](https://arxiv.org/pdf/2001.04253), [\[code\]](https://github.com/fajieyuan/SIGIR2020_peterrec) ⭐ 207 | 🐛 11 | 🌐 Python | 📅 2024-03-15
 * Collaborative Large Language Model for Recommender Systems, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2311.01343), [\[code\]](https://github.com/yaochenzhu/llm4rec) ⭐ 174 | 🐛 5 | 🌐 Python | 📅 2024-08-07.
 * Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders, WWW 2023, [\[paper\]](https://arxiv.org/pdf/2210.12316), [\[code\]](https://github.com/RUCAIBox/VQ-Rec) ⭐ 104 | 🐛 2 | 🌐 Python | 📅 2023-03-27.
@@ -223,7 +223,7 @@ Welcome to open an issue or make a pull request!
 
 * A Content-Driven Micro-Video Recommendation Dataset at Scale, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.15379), [\[link\]](https://github.com/westlake-repl/MicroLens) ⭐ 292 | 🐛 3 | 🌐 Python | 📅 2026-03-19.
 * PixelRec: An Image Dataset for Benchmarking Recommender Systems with Raw Pixels, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.06789), [\[link\]](https://github.com/westlake-repl/PixelRec) ⭐ 189 | 🐛 1 | 🌐 Python | 📅 2025-03-19.
-* NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.07705), [\[link\]](https://github.com/westlake-repl/NineRec) ⭐ 112 | 🐛 5 | 🌐 Python | 📅 2024-10-06.
+* NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.07705), [\[link\]](https://github.com/westlake-repl/NineRec) ⭐ 113 | 🐛 5 | 🌐 Python | 📅 2024-10-06.
 * MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation, SIGIR 2024, [\[paper\]](https://arxiv.org/pdf/2403.17876), [\[link\]](https://github.com/andreeaiana/xMIND) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2024-03-27.
 * Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2307.09688), [\[KDD Cup 2023\]](https://kddcup23.github.io/).
 * EEG-SVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation, arxiv, 2024[\[paper\]](https://arxiv.org/pdf/2404.01008)[\[link\]](https://anonymous.4open.science/r/Z-SV-CFB1)
@@ -231,4 +231,4 @@ Welcome to open an issue or make a pull request!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
