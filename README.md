@@ -192,7 +192,7 @@ Welcome to open an issue or make a pull request!
 **Github Repository: "Universal\_user\_representations for recommendation" [\[link\]](https://github.com/fajieyuan/universal_user_representation) ⭐ 25 | 🐛 0 | 📅 2024-03-01**.
 
 * Towards Universal Sequence Representation Learning for Recommender Systems, KDD 2022, [\[paper\]](https://arxiv.org/pdf/2206.05941), [\[code\]](https://github.com/RUCAIBox/UniSRec) ⭐ 226 | 🐛 11 | 🌐 Python | 📅 2023-11-29.
-* Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020, [\[paper\]](https://arxiv.org/pdf/2001.04253), [\[code\]](https://github.com/fajieyuan/SIGIR2020_peterrec) ⭐ 207 | 🐛 11 | 🌐 Python | 📅 2024-03-15
+* Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020, [\[paper\]](https://arxiv.org/pdf/2001.04253), [\[code\]](https://github.com/fajieyuan/SIGIR2020_peterrec) ⭐ 208 | 🐛 11 | 🌐 Python | 📅 2024-03-15
 * Collaborative Large Language Model for Recommender Systems, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2311.01343), [\[code\]](https://github.com/yaochenzhu/llm4rec) ⭐ 174 | 🐛 5 | 🌐 Python | 📅 2024-08-07.
 * Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders, WWW 2023, [\[paper\]](https://arxiv.org/pdf/2210.12316), [\[code\]](https://github.com/RUCAIBox/VQ-Rec) ⭐ 104 | 🐛 2 | 🌐 Python | 📅 2023-03-27.
 * One Person, One Model, One World: Learning Continual User Representation without Forgetting, SIGIR 2021, [\[paper\]](https://arxiv.org/pdf/2009.13724.pdf), [\[code\]](https://github.com/fajieyuan/SIGIR2021_Conure) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2024-03-15
@@ -231,4 +231,4 @@ Welcome to open an issue or make a pull request!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
