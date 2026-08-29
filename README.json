@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[WWW'2024] \"RLMRec: Representation Learning with Large Language Models for Recommendation\"",
+            "homepage": "https://arxiv.org/abs/2310.15950",
             "id": 708685675,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-26T19:57:38Z",
+            "open_issues": 8,
             "owner": "HKUDS",
             "repo": "RLMRec",
-            "stars": 464
+            "stars": 464,
+            "topics": [
+              "collaborative-filtering",
+              "graph-neural-networks",
+              "large-language-models",
+              "recommendation",
+              "recommender-systems"
+            ]
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -26,12 +37,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenP5: An Open-Source Platform for Developing, Training, and Evaluating LLM-based Recommender Systems",
+            "homepage": null,
             "id": 630039567,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-04T20:23:01Z",
+            "open_issues": 6,
             "owner": "agiresearch",
             "repo": "OpenP5",
-            "stars": 348
+            "stars": 348,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -42,12 +58,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECIR'24] Implementation of \"Large Language Models are Zero-Shot Rankers for Recommender Systems\"",
+            "homepage": null,
             "id": 640615859,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-15T08:20:54Z",
+            "open_issues": 6,
             "owner": "RUCAIBox",
             "repo": "LLMRank",
-            "stars": 324
+            "stars": 324,
+            "topics": [
+              "chatgpt",
+              "large-language-models",
+              "recommendation-system",
+              "recommender-system",
+              "zero-shot-learning"
+            ]
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -58,12 +85,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 625803775,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-05T06:17:58Z",
+            "open_issues": 7,
             "owner": "SAI990323",
             "repo": "TALLRec",
-            "stars": 283
+            "stars": 283,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -74,12 +106,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICDE'24] Code of \"Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation.\"",
+            "homepage": null,
             "id": 719090224,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-09-09T13:21:59Z",
+            "open_issues": 14,
             "owner": "RUCAIBox",
             "repo": "LC-Rec",
-            "stars": 236
+            "stars": 236,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -90,12 +127,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[PGAI@CIKM 2023] PyTorch Implementation of LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking",
+            "homepage": null,
             "id": 709009462,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-25T21:30:05Z",
+            "open_issues": 4,
             "owner": "Yueeeeeeee",
             "repo": "LlamaRec",
-            "stars": 173
+            "stars": 173,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -106,12 +148,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[EMNLP'2024] \"XRec: Large Language Models for Explainable Recommendation\"",
+            "homepage": "http://arxiv.org/abs/2406.02377",
             "id": 809363632,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-24T13:20:23Z",
+            "open_issues": 6,
             "owner": "HKUDS",
             "repo": "XRec",
-            "stars": 170
+            "stars": 170,
+            "topics": [
+              "explainable-ai",
+              "large-language-models",
+              "recommender-systems"
+            ]
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -122,12 +173,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 754577697,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-01T05:09:56Z",
+            "open_issues": 8,
             "owner": "ghdtjr",
             "repo": "A-LLMRec",
-            "stars": 170
+            "stars": 170,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -138,12 +194,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 716571216,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-12T02:00:38Z",
+            "open_issues": 13,
             "owner": "ljy0ustc",
             "repo": "LLaRA",
-            "stars": 167
+            "stars": 167,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -154,12 +215,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the Paper \"Zero-Shot Next-Item Recommendation using Large Pretrained Language Models\"",
+            "homepage": "https://arxiv.org/abs/2304.03153",
             "id": 624447632,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-05-09T09:41:33Z",
+            "open_issues": 3,
             "owner": "AGI-Edgerunners",
             "repo": "LLM-Next-Item-Rec",
-            "stars": 142
+            "stars": 142,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -170,12 +236,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All code necessary for reproducing the \"Improving Sequential Recommendation with LLMs\" and \"Leveraging Large Language Models for Sequential Recommendation\" papers.",
+            "homepage": null,
             "id": 670507850,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-02-05T15:39:06Z",
+            "open_issues": 0,
             "owner": "dh-r",
             "repo": "LLM-Sequential-Recommendation",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -186,12 +257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(WSDM 2024) Official implementation of the paper \"ONCE: Boosting Content-based Recommendation with Both Open- and Closed-source Large Language Models\"",
+            "homepage": "https://arxiv.org/abs/2305.06566",
             "id": 639241820,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-02-15T06:18:24Z",
+            "open_issues": 0,
             "owner": "Jyonn",
             "repo": "ONCE",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -202,12 +278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evaluation data, LLMs query code and results for \"Large Language Models as Zero-Shot Conversational Recommenders\" on CIKM 2023.",
+            "homepage": null,
             "id": 679541793,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-08-22T04:06:32Z",
+            "open_issues": 1,
             "owner": "AaronHeee",
             "repo": "LLMs-as-Zero-Shot-Conversational-RecSys",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -218,12 +299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for the paper: ",
+            "homepage": null,
             "id": 787583244,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-09-04T17:34:35Z",
+            "open_issues": 0,
             "owner": "dayuyang1999",
             "repo": "Behavior-Alignment",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -234,12 +320,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "About The official GitHub page for ''Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models''  Resources",
+            "homepage": null,
             "id": 643799379,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-11T07:30:32Z",
+            "open_issues": 0,
             "owner": "RUCAIBox",
             "repo": "iEvaLM-CRS",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -250,12 +341,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 650085709,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-19T06:01:07Z",
+            "open_issues": 3,
             "owner": "williamliujl",
             "repo": "LLMRec",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -266,12 +362,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code of Paper \"ReLLa: Retrieval-enhanced Large Language Models for Mitigating Long Context Problems in Recommendation\".",
+            "homepage": null,
             "id": 679789014,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-03-08T08:53:05Z",
+            "open_issues": 5,
             "owner": "LaVieEnRose365",
             "repo": "ReLLa",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -282,12 +383,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 685351545,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-24T08:23:27Z",
+            "open_issues": 7,
             "owner": "HestiaSky",
             "repo": "E4SRec",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -298,12 +404,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS'24 Spotlight] The official implementation code of LLM-ESR.",
+            "homepage": "https://arxiv.org/abs/2405.20646",
             "id": 804800928,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-20T15:40:21Z",
+            "open_issues": 2,
             "owner": "liuqidong07",
             "repo": "LLM-ESR",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "knowledge-distillation",
+              "large-language-models",
+              "long-tail",
+              "longtail",
+              "recommendation",
+              "recommender-system",
+              "sequential-recommendation"
+            ]
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -314,12 +433,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[AAAI'25 Oral] The official implementation code of LLMEmb",
+            "homepage": "https://arxiv.org/abs/2409.19925",
             "id": 864068774,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-13T13:31:23Z",
+            "open_issues": 6,
             "owner": "liuqidong07",
             "repo": "LLMEmb",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "embeddings",
+              "large-language-models",
+              "llm",
+              "recommendation",
+              "recommender-system",
+              "sequential-models",
+              "sequential-recommendation"
+            ]
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -330,12 +462,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CIKM'23, Prompt Distillation for Efficient LLM-based Recommendation",
+            "homepage": null,
             "id": 674986561,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-01-24T02:10:13Z",
+            "open_issues": 2,
             "owner": "lileipisces",
             "repo": "POD",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -346,12 +483,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official implementation for Sequential Recommendation with Latent Relations based on Large Language Model",
+            "homepage": null,
             "id": 747076938,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-11-03T03:12:33Z",
+            "open_issues": 0,
             "owner": "ysh-1998",
             "repo": "LRD",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -362,12 +504,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACL 2024] RDRec: Rationale Distillation for LLM-based Recommendation",
+            "homepage": null,
             "id": 756627608,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-23T10:07:00Z",
+            "open_issues": 0,
             "owner": "WangXFng",
             "repo": "RDRec",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -378,12 +525,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Our EMNLP (Industry) 2023 paper \"LLM4Vis: Explainable Visualization Recommendation using ChatGPT\"",
+            "homepage": null,
             "id": 703634674,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-02-04T13:57:57Z",
+            "open_issues": 0,
             "owner": "demoleiwang",
             "repo": "LLM4Vis",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -394,12 +546,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 748597240,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-26T14:57:36Z",
+            "open_issues": 0,
             "owner": "maowenyu-11",
             "repo": "RPP",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -410,12 +567,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official implementation for Common Sense Enhanced Knowledge-based Recommendation with Large Language Model",
+            "homepage": null,
             "id": 777789991,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-21T10:08:03Z",
+            "open_issues": 1,
             "owner": "ysh-1998",
             "repo": "CSRec",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -426,12 +588,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 753599969,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-01T16:21:19Z",
+            "open_issues": 0,
             "owner": "RUCAIBox",
             "repo": "LSVCR",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -444,12 +611,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[SIGIR 2024 perspective] The implementation of paper \"On Generative Agents in Recommendation\"",
+                "homepage": "https://arxiv.org/abs/2310.10108",
                 "id": 703832941,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-07T05:45:01Z",
+                "open_issues": 4,
                 "owner": "LehengTHU",
                 "repo": "Agent4Rec",
-                "stars": 499
+                "stars": 499,
+                "topics": [
+                  "llm-based-agent",
+                  "recommender-system"
+                ]
               },
               "first_seen": "2026-08-28T05:21:29.364Z"
             }
@@ -467,12 +642,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[WSDM'2024 Oral] \"LLMRec: Large Language Models with Graph Augmentation for Recommendation\"",
+                "homepage": "https://arxiv.org/abs/2311.00423",
                 "id": 708601315,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-10T06:39:28Z",
+                "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 538
+                "stars": 538,
+                "topics": [
+                  "colloborative-filtering",
+                  "content-based-recommendation",
+                  "data-augmentation-strategies",
+                  "graph-augmentation",
+                  "graph-learning",
+                  "multi-modal-recommendation",
+                  "recommendation-system",
+                  "recommendation-with-side-information"
+                ]
               },
               "first_seen": "2026-08-28T05:21:29.364Z"
             },
@@ -483,12 +672,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for paper \"Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models\"",
+                "homepage": null,
                 "id": 709107428,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-14T11:15:07Z",
+                "open_issues": 7,
                 "owner": "YunjiaXi",
                 "repo": "Open-World-Knowledge-Augmented-Recommendation",
-                "stars": 112
+                "stars": 112,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:21:29.364Z"
             }
@@ -506,12 +700,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the official implementation of the RecSys 2023 paper “Uncovering ChatGPT's Capabilities in Recommender Systems”",
+                "homepage": "https://arxiv.org/abs/2305.02182",
                 "id": 605570569,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-05-14T06:17:29Z",
+                "open_issues": 1,
                 "owner": "rainym00d",
                 "repo": "LLM4RS",
-                "stars": 176
+                "stars": 176,
+                "topics": [
+                  "chatgpt",
+                  "information-retrieval",
+                  "large-language-model",
+                  "learn-to-rank",
+                  "llm",
+                  "recommendation",
+                  "recommender-system",
+                  "rs"
+                ]
               },
               "first_seen": "2026-08-28T05:21:29.364Z"
             },
@@ -522,12 +730,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "End-to-end Training for Multimodal Recommendation Systems ",
+                "homepage": null,
                 "id": 627481378,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-02T01:12:02Z",
+                "open_issues": 6,
                 "owner": "westlake-repl",
                 "repo": "IDvs.MoRec",
-                "stars": 168
+                "stars": 168,
+                "topics": [
+                  "end-to-end",
+                  "foundation-models",
+                  "foundation-recommendation-model",
+                  "image-recommendation",
+                  "large-language-model",
+                  "llm",
+                  "llm-recommendation",
+                  "modality-based-recommendation",
+                  "multimodal",
+                  "multimodal-deep-learning",
+                  "multimodal-recommendation",
+                  "multimodal-recommendation-dataset",
+                  "text-recommendation",
+                  "transferable-recommendation"
+                ]
               },
               "first_seen": "2026-08-28T05:21:29.364Z"
             },
@@ -538,12 +766,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The code for \"Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation\"",
+                "homepage": null,
                 "id": 639864416,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2023-06-15T13:10:33Z",
+                "open_issues": 1,
                 "owner": "jizhi-zhang",
                 "repo": "FaiRLLM",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:21:29.364Z"
             }
@@ -565,12 +798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[KDD'22] Official PyTorch implementation for \"Towards Universal Sequence Representation Learning for Recommender Systems\".",
+            "homepage": null,
             "id": 497198670,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-11-29T09:37:26Z",
+            "open_issues": 11,
             "owner": "RUCAIBox",
             "repo": "UniSRec",
-            "stars": 226
+            "stars": 226,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -581,12 +819,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Universal User Representation Pre-training for Cross-domain Recommendation and User Profiling",
+            "homepage": null,
             "id": 262513671,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-15T03:43:29Z",
+            "open_issues": 11,
             "owner": "fajieyuan",
             "repo": "SIGIR2020_peterrec",
-            "stars": 208
+            "stars": 208,
+            "topics": [
+              "bert",
+              "bert-model",
+              "cold-start",
+              "collaborative-filtering",
+              "continual-learning",
+              "cross-domain",
+              "lifelong-learning",
+              "lifelong-machine-learning",
+              "pretraining",
+              "profiling",
+              "recommendation",
+              "recommender-system",
+              "representation-learning",
+              "self-supervised-learning",
+              "transfer",
+              "transfer-learning",
+              "transformer",
+              "universal",
+              "universal-representation",
+              "user"
+            ]
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -597,12 +861,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(WWW'24 + LinkedIn) The first RS that tightly combines LLM with ID-based RS",
+            "homepage": null,
             "id": 710588578,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-07T05:35:42Z",
+            "open_issues": 5,
             "owner": "yaochenzhu",
             "repo": "LLM4Rec",
-            "stars": 174
+            "stars": 174,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -613,12 +882,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[WWW'23] PyTorch implementation for \"Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders\".",
+            "homepage": null,
             "id": 599473000,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-03-27T15:18:01Z",
+            "open_issues": 2,
             "owner": "RUCAIBox",
             "repo": "VQ-Rec",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -629,12 +903,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pre-training and Lifelong learning for User Embedding  and Recommender System",
+            "homepage": null,
             "id": 363842477,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-15T03:42:37Z",
+            "open_issues": 1,
             "owner": "fajieyuan",
             "repo": "SIGIR2021_Conure",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "catastrophic-forgetting",
+              "continual-learning",
+              "foundation-model",
+              "general-purpose",
+              "lifelong-learning",
+              "lifelong-machine-learning",
+              "one-for-all",
+              "pre-training",
+              "self-supervised-learning",
+              "transfer-learning",
+              "universal-recommender",
+              "universal-representation",
+              "user-profile",
+              "user-representation"
+            ]
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         }
@@ -651,12 +945,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generative model for sequential recommendation based on Convolution Neural Networks (CNN))",
+            "homepage": null,
             "id": 159771840,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-28T02:13:10Z",
+            "open_issues": 4,
             "owner": "fajieyuan",
             "repo": "WSDM2019-nextitnet",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "autoregressive",
+              "autoregressive-models",
+              "cnn",
+              "convolutional-neural-network",
+              "convolutional-neural-networks",
+              "generative-model",
+              "generative-recommendation",
+              "generative-sequential-recommendation",
+              "next-token-prediction",
+              "sequential-recommendation",
+              "sequential-recommender",
+              "session-based",
+              "session-based-recommendation-system"
+            ]
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -667,12 +980,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sequence-to-Sequence Generative Model for Sequential Recommender System",
+            "homepage": null,
             "id": 241027758,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-25T08:49:44Z",
+            "open_issues": 0,
             "owner": "fajieyuan",
             "repo": "WWW2020-grec",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "autoregressive",
+              "autoregressive-model",
+              "bart4rec",
+              "bert4rec",
+              "bidirectional",
+              "bidirectional-lstm",
+              "c-n-n",
+              "cnn-classification",
+              "denoising",
+              "denoising-autoencoders",
+              "encode",
+              "encoder-decoder-architecture",
+              "grec",
+              "recommender",
+              "recommender-system",
+              "sequential",
+              "session-based-recommendation-system"
+            ]
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         }
@@ -689,12 +1025,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 519920959,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-09T02:45:58Z",
+            "open_issues": 0,
             "owner": "jeykigung",
             "repo": "P5",
-            "stars": 379
+            "stars": 379,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -705,12 +1046,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 632824793,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-05-08T08:12:40Z",
+            "open_issues": 0,
             "owner": "zhaijianyang",
             "repo": "KP4SR",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         }
@@ -727,12 +1073,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Large Short-video Recommendation Dataset with Raw Text/Audio/Image/Videos (Talk Invited by DeepMind). ",
+            "homepage": null,
             "id": 694946338,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-19T13:25:17Z",
+            "open_issues": 3,
             "owner": "westlake-repl",
             "repo": "MicroLens",
-            "stars": 294
+            "stars": 294,
+            "topics": [
+              "audio-recommendation",
+              "foundation-models",
+              "image-recommendation",
+              "large",
+              "large-language-models",
+              "llm",
+              "llm-recommendation",
+              "short-video",
+              "text-recommendation",
+              "video",
+              "video-generation",
+              "video-generation-dataset",
+              "video-recommendation",
+              "video-understanding",
+              "video-understanding-dataset"
+            ]
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -743,12 +1110,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A  Large-scale Multimodal Dataset for recommender System",
+            "homepage": null,
             "id": 692620761,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-19T11:49:38Z",
+            "open_issues": 1,
             "owner": "westlake-repl",
             "repo": "PixelRec",
-            "stars": 189
+            "stars": 189,
+            "topics": [
+              "foundation-model",
+              "image-recommendation",
+              "large-image-dataset",
+              "large-language-model",
+              "llm4rec",
+              "multimodal-recommendation",
+              "multimodal-recommendation-dataset",
+              "pre-train-recommendation",
+              "recommender-system",
+              "text-recommendation",
+              "vision-recommendation",
+              "visual-recommender-system"
+            ]
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -759,12 +1144,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multimodal Dataset and Benchmark for Multi-domain and Cross-domain Recommendation System",
+            "homepage": null,
             "id": 693014779,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-10-06T11:46:10Z",
+            "open_issues": 5,
             "owner": "westlake-repl",
             "repo": "NineRec",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "cross-domain-recommendation",
+              "cross-platform-recommendation",
+              "foundation-recommendation-model",
+              "image-recommendation",
+              "llm",
+              "llm-recommendation",
+              "multi-domain-recommendation",
+              "multi-modal-recommendation",
+              "multimodal",
+              "multimodal-recommenddation",
+              "one-for-all",
+              "pre-train-recommendation",
+              "pre-training-dataset",
+              "text-recommendation",
+              "transfer-learning-recommendation",
+              "transferable-recommendation"
+            ]
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -775,12 +1182,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Multilingual Dataset For Cross-lingual News Recommendation",
+            "homepage": null,
             "id": 754550804,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-27T07:31:00Z",
+            "open_issues": 0,
             "owner": "andreeaiana",
             "repo": "xMIND",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         }
@@ -789,15 +1201,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:09:05.558Z",
+    "last_updated": "2026-08-29T04:36:09.155Z",
     "original_repository_info": {
       "archived": false,
+      "description": " Large Language Model-enhanced Recommender System Papers",
+      "homepage": null,
       "id": 639286908,
       "language": null,
+      "license": null,
       "last_commit": "2026-03-15T03:20:03Z",
+      "open_issues": 0,
       "owner": "nancheng58",
       "repo": "Awesome-LLM4RS-Papers",
-      "stars": 765
+      "stars": 765,
+      "topics": [
+        "awesome-list",
+        "gpt",
+        "large-language-models",
+        "llm",
+        "papers",
+        "pre-training",
+        "prompt-tuning",
+        "recommender-system",
+        "survey"
+      ]
     },
     "original_repository_sha": "760406b5fe5c6ff8a78996e19203cdf1f94273a8",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM4RS-Papers",
