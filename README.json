@@ -67,7 +67,7 @@
             "open_issues": 6,
             "owner": "RUCAIBox",
             "repo": "LLMRank",
-            "stars": 324,
+            "stars": 325,
             "topics": [
               "chatgpt",
               "large-language-models",
@@ -620,7 +620,7 @@
                 "open_issues": 4,
                 "owner": "LehengTHU",
                 "repo": "Agent4Rec",
-                "stars": 499,
+                "stars": 500,
                 "topics": [
                   "llm-based-agent",
                   "recommender-system"
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:15:53.917Z",
+    "last_updated": "2026-08-30T23:27:26.086Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
@@ -1213,7 +1213,7 @@
       "open_issues": 0,
       "owner": "nancheng58",
       "repo": "Awesome-LLM4RS-Papers",
-      "stars": 765,
+      "stars": 764,
       "topics": [
         "awesome-list",
         "gpt",
