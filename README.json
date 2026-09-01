@@ -143,6 +143,27 @@
         },
         {
           "node_type": "item",
+          "title": "A-LLMRec: Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System, KDD 2024, [paper]",
+          "description": ", [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 754577697,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2025-04-01T05:09:56Z",
+            "open_issues": 8,
+            "owner": "ghdtjr",
+            "repo": "A-LLMRec",
+            "stars": 171,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T05:21:29.364Z"
+        },
+        {
+          "node_type": "item",
           "title": "XRec: Large Language Models for Explainable Recommendation, arxiv 2024, [[paper]](XRec: Large Language Models for Explainable Recommendation), [code]",
           "description": null,
           "children": [],
@@ -163,27 +184,6 @@
               "large-language-models",
               "recommender-systems"
             ]
-          },
-          "first_seen": "2026-08-28T05:21:29.364Z"
-        },
-        {
-          "node_type": "item",
-          "title": "A-LLMRec: Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System, KDD 2024, [paper]",
-          "description": ", [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 754577697,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2025-04-01T05:09:56Z",
-            "open_issues": 8,
-            "owner": "ghdtjr",
-            "repo": "A-LLMRec",
-            "stars": 170,
-            "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -284,7 +284,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2023-08-22T04:06:32Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "AaronHeee",
             "repo": "LLMs-as-Zero-Shot-Conversational-RecSys",
             "stars": 85,
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T00:36:08.987Z",
+    "last_updated": "2026-09-01T23:16:42.397Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
