@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "HKUDS",
             "repo": "RLMRec",
-            "stars": 464,
+            "stars": 463,
             "topics": [
               "collaborative-filtering",
               "graph-neural-networks",
@@ -284,7 +284,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2023-08-22T04:06:32Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "AaronHeee",
             "repo": "LLMs-as-Zero-Shot-Conversational-RecSys",
             "stars": 85,
@@ -413,7 +413,7 @@
             "open_issues": 2,
             "owner": "liuqidong07",
             "repo": "LLM-ESR",
-            "stars": 56,
+            "stars": 55,
             "topics": [
               "knowledge-distillation",
               "large-language-models",
@@ -492,7 +492,7 @@
             "open_issues": 0,
             "owner": "ysh-1998",
             "repo": "LRD",
-            "stars": 45,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -739,7 +739,7 @@
                 "open_issues": 6,
                 "owner": "westlake-repl",
                 "repo": "IDvs.MoRec",
-                "stars": 168,
+                "stars": 169,
                 "topics": [
                   "end-to-end",
                   "foundation-models",
@@ -1034,7 +1034,7 @@
             "open_issues": 0,
             "owner": "jeykigung",
             "repo": "P5",
-            "stars": 379,
+            "stars": 380,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -1082,7 +1082,7 @@
             "open_issues": 3,
             "owner": "westlake-repl",
             "repo": "MicroLens",
-            "stars": 294,
+            "stars": 295,
             "topics": [
               "audio-recommendation",
               "foundation-models",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T23:16:42.397Z",
+    "last_updated": "2026-09-02T23:17:21.639Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
