@@ -35,7 +35,7 @@ Welcome to open an issue or make a pull request!
 * Zero-Shot Next-Item Recommendation using Large Pretrained Language Models, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2304.03153), [\[code\]](https://github.com/AGI-Edgerunners/LLM-Next-Item-Rec) ⭐ 142 | 🐛 3 | 🌐 Python | 📅 2023-05-09.
 * Leveraging Large Language Models for Sequential Recommendation, RecSys 2023 LBR, [\[paper\]](https://arxiv.org/pdf/2309.09261), [\[code\]](https://github.com/dh-r/LLM-Sequential-Recommendation) ⭐ 121 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-05.
 * ONCE: Boosting Content-based Recommendation with Both Open- and Closed-source Large Language Models, WSDM 2024, [\[paper\]](https://arxiv.org/pdf/2305.06566), [\[code\]](https://github.com/Jyonn/ONCE) ⭐ 93 | 🐛 0 | 🌐 Python | 📅 2025-02-15.
-* Large Language Models as Zero-Shot Conversational Recommenders, CIKM 2023, [\[paper\]](https://arxiv.org/pdf/2308.10053), [\[code\]](https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys) ⭐ 85 | 🐛 1 | 🌐 Python | 📅 2023-08-22.
+* Large Language Models as Zero-Shot Conversational Recommenders, CIKM 2023, [\[paper\]](https://arxiv.org/pdf/2308.10053), [\[code\]](https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys) ⭐ 86 | 🐛 1 | 🌐 Python | 📅 2023-08-22.
 * Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Recommendation Systems, SIGIR 2024, [\[paper\]](http://arxiv.org/pdf/2404.11773), [\[code\]](https://github.com/dayuyang1999/Behavior-Alignment) ⭐ 69 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-09-04.
 * Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2305.13112), [\[code\]](https://github.com/RUCAIBox/iEvaLM-CRS) ⭐ 65 | 🐛 0 | 🌐 Python | 📅 2023-10-11.
 * LLMRec: Benchmarking Large Language Models on Recommendation Task, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2308.12241),[\[code\]](https://github.com/williamliujl/LLMRec) ⭐ 63 | 🐛 3 | 🌐 Python | 📅 2023-08-19.
@@ -231,4 +231,4 @@ Welcome to open an issue or make a pull request!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

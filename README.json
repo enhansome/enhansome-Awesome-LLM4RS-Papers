@@ -287,7 +287,7 @@
             "open_issues": 1,
             "owner": "AaronHeee",
             "repo": "LLMs-as-Zero-Shot-Conversational-RecSys",
-            "stars": 85,
+            "stars": 86,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T23:15:14.314Z",
+    "last_updated": "2026-09-04T23:01:58.956Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
