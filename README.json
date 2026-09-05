@@ -46,7 +46,7 @@
             "open_issues": 6,
             "owner": "agiresearch",
             "repo": "OpenP5",
-            "stars": 348,
+            "stars": 349,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -1034,7 +1034,7 @@
             "open_issues": 0,
             "owner": "jeykigung",
             "repo": "P5",
-            "stars": 380,
+            "stars": 381,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -1082,7 +1082,7 @@
             "open_issues": 3,
             "owner": "westlake-repl",
             "repo": "MicroLens",
-            "stars": 295,
+            "stars": 296,
             "topics": [
               "audio-recommendation",
               "foundation-models",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T23:01:58.956Z",
+    "last_updated": "2026-09-05T22:51:57.545Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
@@ -1213,7 +1213,7 @@
       "open_issues": 0,
       "owner": "nancheng58",
       "repo": "Awesome-LLM4RS-Papers",
-      "stars": 764,
+      "stars": 765,
       "topics": [
         "awesome-list",
         "gpt",

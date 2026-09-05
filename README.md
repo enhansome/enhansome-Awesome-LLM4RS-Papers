@@ -24,7 +24,7 @@ Welcome to open an issue or make a pull request!
 ## Paper List
 
 * Representation Learning with Large Language Models for Recommendation, WWW 2024, [\[paper\]](https://arxiv.org/pdf/2310.15950), [\[code\]](https://github.com/HKUDS/RLMRec) ⭐ 463 | 🐛 8 | 🌐 Python | 📅 2024-06-26.
-* OpenP5: An Open-Source Platform for Developing, Training, and Evaluating LLM-based Recommender Systems, Sigir 2024, [\[paper\]](https://arxiv.org/pdf/2310.09233), [\[code\]](https://github.com/agiresearch/OpenP5) ⭐ 348 | 🐛 6 | 🌐 Python | 📅 2025-03-04
+* OpenP5: An Open-Source Platform for Developing, Training, and Evaluating LLM-based Recommender Systems, Sigir 2024, [\[paper\]](https://arxiv.org/pdf/2310.09233), [\[code\]](https://github.com/agiresearch/OpenP5) ⭐ 349 | 🐛 6 | 🌐 Python | 📅 2025-03-04
 * Large Language Models are Zero-Shot Rankers for Recommender Systems, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2305.08845), [\[code\]](https://github.com/RUCAIBox/LLMRank) ⭐ 325 | 🐛 6 | 🌐 Python | 📅 2025-05-15.
 * TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation, RecSys 2023 Short Paper, [\[paper\]](https://arxiv.org/pdf/2305.00447), [\[code\]](https://github.com/SAI990323/TALLRec) ⭐ 283 | 🐛 7 | 🌐 Python | 📅 2024-02-05.
 * Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2311.09049), [\[code\]](https://github.com/RUCAIBox/LC-Rec/) ⭐ 236 | 🐛 14 | 🌐 Python | 📅 2024-09-09.
@@ -213,7 +213,7 @@ Welcome to open an issue or make a pull request!
 
 **Survey paper: Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2302.03735).**
 
-* Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), arvix 2022, [\[paper\]](https://arxiv.org/pdf/2203.13366),[\[code\]](https://github.com/jeykigung/P5) ⭐ 380 | 🐛 0 | 🌐 Python | 📅 2023-10-09.
+* Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), arvix 2022, [\[paper\]](https://arxiv.org/pdf/2203.13366),[\[code\]](https://github.com/jeykigung/P5) ⭐ 381 | 🐛 0 | 🌐 Python | 📅 2023-10-09.
 * Knowledge Prompt-tuning for Sequential Recommendation, ACM MM 2023, [\[paper\]](https://arxiv.org/pdf/2308.08459), [\[code\]](https://github.com/zhaijianyang/KP4SR) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2023-05-08.
 * Rethinking Reinforcement Learning for Recommendation: A Prompt Perspective, SIGIR 2022, [\[paper\]](https://arxiv.org/pdf/2206.07353).
 * M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems, arvix 2022, [\[paper\]](https://arxiv.org/pdf/2205.08084).
@@ -221,7 +221,7 @@ Welcome to open an issue or make a pull request!
 
 ## Dataset
 
-* A Content-Driven Micro-Video Recommendation Dataset at Scale, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.15379), [\[link\]](https://github.com/westlake-repl/MicroLens) ⭐ 295 | 🐛 3 | 🌐 Python | 📅 2026-03-19.
+* A Content-Driven Micro-Video Recommendation Dataset at Scale, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.15379), [\[link\]](https://github.com/westlake-repl/MicroLens) ⭐ 296 | 🐛 3 | 🌐 Python | 📅 2026-03-19.
 * PixelRec: An Image Dataset for Benchmarking Recommender Systems with Raw Pixels, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.06789), [\[link\]](https://github.com/westlake-repl/PixelRec) ⭐ 189 | 🐛 1 | 🌐 Python | 📅 2025-03-19.
 * NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.07705), [\[link\]](https://github.com/westlake-repl/NineRec) ⭐ 112 | 🐛 5 | 🌐 Python | 📅 2024-10-06.
 * MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation, SIGIR 2024, [\[paper\]](https://arxiv.org/pdf/2403.17876), [\[link\]](https://github.com/andreeaiana/xMIND) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2024-03-27.
@@ -231,4 +231,4 @@ Welcome to open an issue or make a pull request!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
