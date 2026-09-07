@@ -870,7 +870,7 @@
             "open_issues": 5,
             "owner": "yaochenzhu",
             "repo": "LLM4Rec",
-            "stars": 174,
+            "stars": 173,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T22:53:08.930Z",
+    "last_updated": "2026-09-07T23:28:37.355Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
