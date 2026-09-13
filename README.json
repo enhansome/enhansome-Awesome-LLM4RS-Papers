@@ -1119,7 +1119,7 @@
             "open_issues": 1,
             "owner": "westlake-repl",
             "repo": "PixelRec",
-            "stars": 189,
+            "stars": 190,
             "topics": [
               "foundation-model",
               "image-recommendation",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T23:01:19.530Z",
+    "last_updated": "2026-09-13T23:06:59.622Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
