@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "HKUDS",
             "repo": "RLMRec",
-            "stars": 464,
+            "stars": 463,
             "topics": [
               "collaborative-filtering",
               "graph-neural-networks",
@@ -94,7 +94,7 @@
             "open_issues": 7,
             "owner": "SAI990323",
             "repo": "TALLRec",
-            "stars": 283,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -245,7 +245,7 @@
             "open_issues": 0,
             "owner": "dh-r",
             "repo": "LLM-Sequential-Recommendation",
-            "stars": 121,
+            "stars": 120,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -413,7 +413,7 @@
             "open_issues": 2,
             "owner": "liuqidong07",
             "repo": "LLM-ESR",
-            "stars": 55,
+            "stars": 54,
             "topics": [
               "knowledge-distillation",
               "large-language-models",
@@ -651,7 +651,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 538,
+                "stars": 537,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -681,7 +681,7 @@
                 "open_issues": 7,
                 "owner": "YunjiaXi",
                 "repo": "Open-World-Knowledge-Augmented-Recommendation",
-                "stars": 112,
+                "stars": 111,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:21:29.364Z"
@@ -1119,7 +1119,7 @@
             "open_issues": 1,
             "owner": "westlake-repl",
             "repo": "PixelRec",
-            "stars": 190,
+            "stars": 189,
             "topics": [
               "foundation-model",
               "image-recommendation",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:51:04.052Z",
+    "last_updated": "2026-09-15T23:31:36.128Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
