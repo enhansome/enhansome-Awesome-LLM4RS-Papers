@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "HKUDS",
             "repo": "RLMRec",
-            "stars": 463,
+            "stars": 462,
             "topics": [
               "collaborative-filtering",
               "graph-neural-networks",
@@ -143,31 +143,6 @@
         },
         {
           "node_type": "item",
-          "title": "XRec: Large Language Models for Explainable Recommendation, arxiv 2024, [[paper]](XRec: Large Language Models for Explainable Recommendation), [code]",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[EMNLP'2024] \"XRec: Large Language Models for Explainable Recommendation\"",
-            "homepage": "http://arxiv.org/abs/2406.02377",
-            "id": 809363632,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2024-09-24T13:20:23Z",
-            "open_issues": 6,
-            "owner": "HKUDS",
-            "repo": "XRec",
-            "stars": 171,
-            "topics": [
-              "explainable-ai",
-              "large-language-models",
-              "recommender-systems"
-            ]
-          },
-          "first_seen": "2026-08-28T05:21:29.364Z"
-        },
-        {
-          "node_type": "item",
           "title": "A-LLMRec: Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System, KDD 2024, [paper]",
           "description": ", [code]",
           "children": [],
@@ -184,6 +159,31 @@
             "repo": "A-LLMRec",
             "stars": 171,
             "topics": []
+          },
+          "first_seen": "2026-08-28T05:21:29.364Z"
+        },
+        {
+          "node_type": "item",
+          "title": "XRec: Large Language Models for Explainable Recommendation, arxiv 2024, [[paper]](XRec: Large Language Models for Explainable Recommendation), [code]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[EMNLP'2024] \"XRec: Large Language Models for Explainable Recommendation\"",
+            "homepage": "http://arxiv.org/abs/2406.02377",
+            "id": 809363632,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2024-09-24T13:20:23Z",
+            "open_issues": 6,
+            "owner": "HKUDS",
+            "repo": "XRec",
+            "stars": 170,
+            "topics": [
+              "explainable-ai",
+              "large-language-models",
+              "recommender-systems"
+            ]
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
         },
@@ -651,7 +651,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 537,
+                "stars": 536,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T23:32:15.361Z",
+    "last_updated": "2026-09-18T23:15:58.671Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
