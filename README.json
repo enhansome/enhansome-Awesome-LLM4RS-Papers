@@ -1082,7 +1082,7 @@
             "open_issues": 3,
             "owner": "westlake-repl",
             "repo": "MicroLens",
-            "stars": 298,
+            "stars": 299,
             "topics": [
               "audio-recommendation",
               "foundation-models",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T23:13:10.226Z",
+    "last_updated": "2026-09-22T00:03:51.849Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
