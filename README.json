@@ -94,7 +94,7 @@
             "open_issues": 7,
             "owner": "SAI990323",
             "repo": "TALLRec",
-            "stars": 282,
+            "stars": 283,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -115,7 +115,7 @@
             "open_issues": 14,
             "owner": "RUCAIBox",
             "repo": "LC-Rec",
-            "stars": 238,
+            "stars": 239,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -989,7 +989,7 @@
             "open_issues": 0,
             "owner": "fajieyuan",
             "repo": "WWW2020-grec",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "autoregressive",
               "autoregressive-model",
@@ -1082,7 +1082,7 @@
             "open_issues": 3,
             "owner": "westlake-repl",
             "repo": "MicroLens",
-            "stars": 299,
+            "stars": 300,
             "topics": [
               "audio-recommendation",
               "foundation-models",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:03:51.849Z",
+    "last_updated": "2026-09-22T23:35:22.445Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
@@ -1213,7 +1213,7 @@
       "open_issues": 0,
       "owner": "nancheng58",
       "repo": "Awesome-LLM4RS-Papers",
-      "stars": 765,
+      "stars": 766,
       "topics": [
         "awesome-list",
         "gpt",

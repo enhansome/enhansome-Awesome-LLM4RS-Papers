@@ -26,8 +26,8 @@ Welcome to open an issue or make a pull request!
 * Representation Learning with Large Language Models for Recommendation, WWW 2024, [\[paper\]](https://arxiv.org/pdf/2310.15950), [\[code\]](https://github.com/HKUDS/RLMRec) ⭐ 462 | 🐛 8 | 🌐 Python | 📅 2024-06-26.
 * OpenP5: An Open-Source Platform for Developing, Training, and Evaluating LLM-based Recommender Systems, Sigir 2024, [\[paper\]](https://arxiv.org/pdf/2310.09233), [\[code\]](https://github.com/agiresearch/OpenP5) ⭐ 349 | 🐛 6 | 🌐 Python | 📅 2025-03-04
 * Large Language Models are Zero-Shot Rankers for Recommender Systems, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2305.08845), [\[code\]](https://github.com/RUCAIBox/LLMRank) ⭐ 325 | 🐛 6 | 🌐 Python | 📅 2025-05-15.
-* TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation, RecSys 2023 Short Paper, [\[paper\]](https://arxiv.org/pdf/2305.00447), [\[code\]](https://github.com/SAI990323/TALLRec) ⭐ 282 | 🐛 7 | 🌐 Python | 📅 2024-02-05.
-* Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2311.09049), [\[code\]](https://github.com/RUCAIBox/LC-Rec/) ⭐ 238 | 🐛 14 | 🌐 Python | 📅 2024-09-09.
+* TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation, RecSys 2023 Short Paper, [\[paper\]](https://arxiv.org/pdf/2305.00447), [\[code\]](https://github.com/SAI990323/TALLRec) ⭐ 283 | 🐛 7 | 🌐 Python | 📅 2024-02-05.
+* Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2311.09049), [\[code\]](https://github.com/RUCAIBox/LC-Rec/) ⭐ 239 | 🐛 14 | 🌐 Python | 📅 2024-09-09.
 * LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, arxiv 2023, [\[paper\]](https://github.com/Yueeeeeeee/LlamaRec/blob/main/media/paper.pdf) ⭐ 173 | 🐛 4 | 🌐 Python | 📅 2024-04-25, [\[code\]](https://github.com/Yueeeeeeee/LlamaRec) ⭐ 173 | 🐛 4 | 🌐 Python | 📅 2024-04-25.
 * A-LLMRec: Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System, KDD 2024, [\[paper\]](https://arxiv.org/pdf/2406.02844), [\[code\]](https://github.com/ghdtjr/A-LLMRec) ⭐ 171 | 🐛 8 | 🌐 Python | 📅 2025-04-01
 * XRec: Large Language Models for Explainable Recommendation, arxiv 2024, \[\[paper]]\(XRec: Large Language Models for Explainable Recommendation), [\[code\]](https://github.com/hkuds/xrec) ⭐ 170 | 🐛 6 | 🌐 Python | 📅 2024-09-24
@@ -204,7 +204,7 @@ Welcome to open an issue or make a pull request!
 ## Generative Retrieval
 
 * A Simple Convolutional Generative Network for Next Item Recommendation, WSDM 2018/08, [\[paper\]](https://arxiv.org/pdf/1808.05163.pdf)  [\[code\]](https://github.com/fajieyuan/WSDM2019-nextitnet) ⭐ 113 | 🐛 4 | 🌐 Python | 📅 2024-03-28
-* Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation, WWW 2020/04, [\[paper\]](https://arxiv.org/pdf/1906.04473.pdf)  [\[code\]](https://github.com/fajieyuan/WWW2020-grec) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2024-03-25
+* Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation, WWW 2020/04, [\[paper\]](https://arxiv.org/pdf/1906.04473.pdf)  [\[code\]](https://github.com/fajieyuan/WWW2020-grec) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2024-03-25
 * Recommender Systems with Generative Retrieval, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2305.05065).
 * Generative Sequential Recommendation with GPTRec, SIGIR 2023 workshop, [\[paper\]](https://arxiv.org/pdf/2306.11114).
 * Enhanced Generative Recommendation via Content and Collaboration Integration, arvix 2024, [\[paper\]](https://arxiv.org/pdf/2403.18480).
@@ -221,7 +221,7 @@ Welcome to open an issue or make a pull request!
 
 ## Dataset
 
-* A Content-Driven Micro-Video Recommendation Dataset at Scale, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.15379), [\[link\]](https://github.com/westlake-repl/MicroLens) ⭐ 299 | 🐛 3 | 🌐 Python | 📅 2026-03-19.
+* A Content-Driven Micro-Video Recommendation Dataset at Scale, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.15379), [\[link\]](https://github.com/westlake-repl/MicroLens) ⭐ 300 | 🐛 3 | 🌐 Python | 📅 2026-03-19.
 * PixelRec: An Image Dataset for Benchmarking Recommender Systems with Raw Pixels, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.06789), [\[link\]](https://github.com/westlake-repl/PixelRec) ⭐ 189 | 🐛 1 | 🌐 Python | 📅 2025-03-19.
 * NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.07705), [\[link\]](https://github.com/westlake-repl/NineRec) ⭐ 112 | 🐛 5 | 🌐 Python | 📅 2024-10-06.
 * MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation, SIGIR 2024, [\[paper\]](https://arxiv.org/pdf/2403.17876), [\[link\]](https://github.com/andreeaiana/xMIND) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2024-03-27.
