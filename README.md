@@ -221,7 +221,7 @@ Welcome to open an issue or make a pull request!
 
 ## Dataset
 
-* A Content-Driven Micro-Video Recommendation Dataset at Scale, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.15379), [\[link\]](https://github.com/westlake-repl/MicroLens) ⭐ 300 | 🐛 3 | 🌐 Python | 📅 2026-03-19.
+* A Content-Driven Micro-Video Recommendation Dataset at Scale, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.15379), [\[link\]](https://github.com/westlake-repl/MicroLens) ⭐ 301 | 🐛 3 | 🌐 Python | 📅 2026-03-19.
 * PixelRec: An Image Dataset for Benchmarking Recommender Systems with Raw Pixels, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.06789), [\[link\]](https://github.com/westlake-repl/PixelRec) ⭐ 189 | 🐛 1 | 🌐 Python | 📅 2025-03-19.
 * NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.07705), [\[link\]](https://github.com/westlake-repl/NineRec) ⭐ 112 | 🐛 5 | 🌐 Python | 📅 2024-10-06.
 * MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation, SIGIR 2024, [\[paper\]](https://arxiv.org/pdf/2403.17876), [\[link\]](https://github.com/andreeaiana/xMIND) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2024-03-27.
@@ -231,4 +231,4 @@ Welcome to open an issue or make a pull request!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
