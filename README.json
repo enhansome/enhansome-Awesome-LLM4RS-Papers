@@ -136,7 +136,7 @@
             "open_issues": 4,
             "owner": "Yueeeeeeee",
             "repo": "LlamaRec",
-            "stars": 173,
+            "stars": 174,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -681,7 +681,7 @@
                 "open_issues": 7,
                 "owner": "YunjiaXi",
                 "repo": "Open-World-Knowledge-Augmented-Recommendation",
-                "stars": 111,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:21:29.364Z"
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T23:56:43.198Z",
+    "last_updated": "2026-09-26T23:34:59.066Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
@@ -1213,7 +1213,7 @@
       "open_issues": 0,
       "owner": "nancheng58",
       "repo": "Awesome-LLM4RS-Papers",
-      "stars": 766,
+      "stars": 767,
       "topics": [
         "awesome-list",
         "gpt",

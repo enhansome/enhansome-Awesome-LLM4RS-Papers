@@ -28,7 +28,7 @@ Welcome to open an issue or make a pull request!
 * Large Language Models are Zero-Shot Rankers for Recommender Systems, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2305.08845), [\[code\]](https://github.com/RUCAIBox/LLMRank) ⭐ 325 | 🐛 6 | 🌐 Python | 📅 2025-05-15.
 * TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation, RecSys 2023 Short Paper, [\[paper\]](https://arxiv.org/pdf/2305.00447), [\[code\]](https://github.com/SAI990323/TALLRec) ⭐ 283 | 🐛 7 | 🌐 Python | 📅 2024-02-05.
 * Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2311.09049), [\[code\]](https://github.com/RUCAIBox/LC-Rec/) ⭐ 239 | 🐛 14 | 🌐 Python | 📅 2024-09-09.
-* LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, arxiv 2023, [\[paper\]](https://github.com/Yueeeeeeee/LlamaRec/blob/main/media/paper.pdf) ⭐ 173 | 🐛 4 | 🌐 Python | 📅 2024-04-25, [\[code\]](https://github.com/Yueeeeeeee/LlamaRec) ⭐ 173 | 🐛 4 | 🌐 Python | 📅 2024-04-25.
+* LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, arxiv 2023, [\[paper\]](https://github.com/Yueeeeeeee/LlamaRec/blob/main/media/paper.pdf) ⭐ 174 | 🐛 4 | 🌐 Python | 📅 2024-04-25, [\[code\]](https://github.com/Yueeeeeeee/LlamaRec) ⭐ 174 | 🐛 4 | 🌐 Python | 📅 2024-04-25.
 * XRec: Large Language Models for Explainable Recommendation, arxiv 2024, \[\[paper]]\(XRec: Large Language Models for Explainable Recommendation), [\[code\]](https://github.com/hkuds/xrec) ⭐ 171 | 🐛 6 | 🌐 Python | 📅 2024-09-24
 * A-LLMRec: Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System, KDD 2024, [\[paper\]](https://arxiv.org/pdf/2406.02844), [\[code\]](https://github.com/ghdtjr/A-LLMRec) ⭐ 171 | 🐛 8 | 🌐 Python | 📅 2025-04-01
 * LLaRA: Aligning Large Language Models with Sequential Recommenders, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2312.02445), [\[code\]](https://github.com/ljy0ustc/LLaRA) ⭐ 167 | 🐛 13 | 🌐 Python | 📅 2024-07-12.
@@ -170,7 +170,7 @@ Welcome to open an issue or make a pull request!
 ### Knowledge Augmentation
 
 * LLMRec: Large Language Models with Graph Augmentation for Recommendation, WSDM 2024, [\[paper\]](https://arxiv.org/pdf/2311.00423), [\[code\]](https://github.com/HKUDS/LLMRec) ⭐ 536 | 🐛 16 | 🌐 Python | 📅 2024-06-10, [\[blog in Chinese\]](https://mp.weixin.qq.com/s/aU-uzLWH6xfIuoon-Zq8Cg).
-* Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2306.10933), [\[code\]](https://github.com/YunjiaXi/Open-World-Knowledge-Augmented-Recommendation) ⭐ 111 | 🐛 7 | 🌐 Python | 📅 2024-11-14.
+* Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2306.10933), [\[code\]](https://github.com/YunjiaXi/Open-World-Knowledge-Augmented-Recommendation) ⭐ 112 | 🐛 7 | 🌐 Python | 📅 2024-11-14.
 * Enhancing Recommender Systems with Large Language Model Reasoning Graphs, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2308.10835).
 * Knowledge Adaptation from Large Language Model to Recommendation for Practical Industrial Application, arxiv 2024, [\[paper\]](https://arxiv.org/pdf/2405.03988).
 
@@ -231,4 +231,4 @@ Welcome to open an issue or make a pull request!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
