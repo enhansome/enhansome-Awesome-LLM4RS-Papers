@@ -46,7 +46,7 @@
             "open_issues": 6,
             "owner": "agiresearch",
             "repo": "OpenP5",
-            "stars": 351,
+            "stars": 350,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -203,7 +203,7 @@
             "open_issues": 13,
             "owner": "ljy0ustc",
             "repo": "LLaRA",
-            "stars": 167,
+            "stars": 166,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -617,7 +617,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-07-07T05:45:01Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "LehengTHU",
                 "repo": "Agent4Rec",
                 "stars": 502,
@@ -651,7 +651,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 536,
+                "stars": 534,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -1082,7 +1082,7 @@
             "open_issues": 3,
             "owner": "westlake-repl",
             "repo": "MicroLens",
-            "stars": 302,
+            "stars": 304,
             "topics": [
               "audio-recommendation",
               "foundation-models",
@@ -1119,7 +1119,7 @@
             "open_issues": 1,
             "owner": "westlake-repl",
             "repo": "PixelRec",
-            "stars": 189,
+            "stars": 188,
             "topics": [
               "foundation-model",
               "image-recommendation",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T23:48:09.062Z",
+    "last_updated": "2026-09-29T00:57:53.980Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
