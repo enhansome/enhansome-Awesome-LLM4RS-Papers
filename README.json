@@ -620,7 +620,7 @@
                 "open_issues": 4,
                 "owner": "LehengTHU",
                 "repo": "Agent4Rec",
-                "stars": 502,
+                "stars": 503,
                 "topics": [
                   "llm-based-agent",
                   "recommender-system"
@@ -870,7 +870,7 @@
             "open_issues": 5,
             "owner": "yaochenzhu",
             "repo": "LLM4Rec",
-            "stars": 173,
+            "stars": 174,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -1082,7 +1082,7 @@
             "open_issues": 3,
             "owner": "westlake-repl",
             "repo": "MicroLens",
-            "stars": 304,
+            "stars": 305,
             "topics": [
               "audio-recommendation",
               "foundation-models",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T00:57:53.980Z",
+    "last_updated": "2026-09-30T00:23:40.612Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
