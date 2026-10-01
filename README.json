@@ -115,7 +115,7 @@
             "open_issues": 14,
             "owner": "RUCAIBox",
             "repo": "LC-Rec",
-            "stars": 239,
+            "stars": 240,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -266,7 +266,7 @@
             "open_issues": 0,
             "owner": "Jyonn",
             "repo": "ONCE",
-            "stars": 93,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -651,7 +651,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 534,
+                "stars": 533,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -709,7 +709,7 @@
                 "open_issues": 1,
                 "owner": "rainym00d",
                 "repo": "LLM4RS",
-                "stars": 176,
+                "stars": 177,
                 "topics": [
                   "chatgpt",
                   "information-retrieval",
@@ -1034,7 +1034,7 @@
             "open_issues": 0,
             "owner": "jeykigung",
             "repo": "P5",
-            "stars": 381,
+            "stars": 382,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T00:23:40.612Z",
+    "last_updated": "2026-10-01T00:32:01.524Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",

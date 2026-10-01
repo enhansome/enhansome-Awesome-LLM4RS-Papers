@@ -27,14 +27,14 @@ Welcome to open an issue or make a pull request!
 * OpenP5: An Open-Source Platform for Developing, Training, and Evaluating LLM-based Recommender Systems, Sigir 2024, [\[paper\]](https://arxiv.org/pdf/2310.09233), [\[code\]](https://github.com/agiresearch/OpenP5) ⭐ 350 | 🐛 6 | 🌐 Python | 📅 2025-03-04
 * Large Language Models are Zero-Shot Rankers for Recommender Systems, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2305.08845), [\[code\]](https://github.com/RUCAIBox/LLMRank) ⭐ 325 | 🐛 6 | 🌐 Python | 📅 2025-05-15.
 * TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation, RecSys 2023 Short Paper, [\[paper\]](https://arxiv.org/pdf/2305.00447), [\[code\]](https://github.com/SAI990323/TALLRec) ⭐ 283 | 🐛 7 | 🌐 Python | 📅 2024-02-05.
-* Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2311.09049), [\[code\]](https://github.com/RUCAIBox/LC-Rec/) ⭐ 239 | 🐛 14 | 🌐 Python | 📅 2024-09-09.
+* Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2311.09049), [\[code\]](https://github.com/RUCAIBox/LC-Rec/) ⭐ 240 | 🐛 14 | 🌐 Python | 📅 2024-09-09.
 * LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, arxiv 2023, [\[paper\]](https://github.com/Yueeeeeeee/LlamaRec/blob/main/media/paper.pdf) ⭐ 174 | 🐛 4 | 🌐 Python | 📅 2024-04-25, [\[code\]](https://github.com/Yueeeeeeee/LlamaRec) ⭐ 174 | 🐛 4 | 🌐 Python | 📅 2024-04-25.
 * XRec: Large Language Models for Explainable Recommendation, arxiv 2024, \[\[paper]]\(XRec: Large Language Models for Explainable Recommendation), [\[code\]](https://github.com/hkuds/xrec) ⭐ 171 | 🐛 6 | 🌐 Python | 📅 2024-09-24
 * A-LLMRec: Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System, KDD 2024, [\[paper\]](https://arxiv.org/pdf/2406.02844), [\[code\]](https://github.com/ghdtjr/A-LLMRec) ⭐ 171 | 🐛 8 | 🌐 Python | 📅 2025-04-01
 * LLaRA: Aligning Large Language Models with Sequential Recommenders, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2312.02445), [\[code\]](https://github.com/ljy0ustc/LLaRA) ⭐ 166 | 🐛 13 | 🌐 Python | 📅 2024-07-12.
 * Zero-Shot Next-Item Recommendation using Large Pretrained Language Models, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2304.03153), [\[code\]](https://github.com/AGI-Edgerunners/LLM-Next-Item-Rec) ⭐ 142 | 🐛 3 | 🌐 Python | 📅 2023-05-09.
 * Leveraging Large Language Models for Sequential Recommendation, RecSys 2023 LBR, [\[paper\]](https://arxiv.org/pdf/2309.09261), [\[code\]](https://github.com/dh-r/LLM-Sequential-Recommendation) ⭐ 120 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-05.
-* ONCE: Boosting Content-based Recommendation with Both Open- and Closed-source Large Language Models, WSDM 2024, [\[paper\]](https://arxiv.org/pdf/2305.06566), [\[code\]](https://github.com/Jyonn/ONCE) ⭐ 93 | 🐛 0 | 🌐 Python | 📅 2025-02-15.
+* ONCE: Boosting Content-based Recommendation with Both Open- and Closed-source Large Language Models, WSDM 2024, [\[paper\]](https://arxiv.org/pdf/2305.06566), [\[code\]](https://github.com/Jyonn/ONCE) ⭐ 94 | 🐛 0 | 🌐 Python | 📅 2025-02-15.
 * Large Language Models as Zero-Shot Conversational Recommenders, CIKM 2023, [\[paper\]](https://arxiv.org/pdf/2308.10053), [\[code\]](https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys) ⭐ 86 | 🐛 1 | 🌐 Python | 📅 2023-08-22.
 * Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Recommendation Systems, SIGIR 2024, [\[paper\]](http://arxiv.org/pdf/2404.11773), [\[code\]](https://github.com/dayuyang1999/Behavior-Alignment) ⭐ 69 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-09-04.
 * Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2305.13112), [\[code\]](https://github.com/RUCAIBox/iEvaLM-CRS) ⭐ 65 | 🐛 0 | 🌐 Python | 📅 2023-10-11.
@@ -169,14 +169,14 @@ Welcome to open an issue or make a pull request!
 
 ### Knowledge Augmentation
 
-* LLMRec: Large Language Models with Graph Augmentation for Recommendation, WSDM 2024, [\[paper\]](https://arxiv.org/pdf/2311.00423), [\[code\]](https://github.com/HKUDS/LLMRec) ⭐ 534 | 🐛 16 | 🌐 Python | 📅 2024-06-10, [\[blog in Chinese\]](https://mp.weixin.qq.com/s/aU-uzLWH6xfIuoon-Zq8Cg).
+* LLMRec: Large Language Models with Graph Augmentation for Recommendation, WSDM 2024, [\[paper\]](https://arxiv.org/pdf/2311.00423), [\[code\]](https://github.com/HKUDS/LLMRec) ⭐ 533 | 🐛 16 | 🌐 Python | 📅 2024-06-10, [\[blog in Chinese\]](https://mp.weixin.qq.com/s/aU-uzLWH6xfIuoon-Zq8Cg).
 * Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2306.10933), [\[code\]](https://github.com/YunjiaXi/Open-World-Knowledge-Augmented-Recommendation) ⭐ 112 | 🐛 7 | 🌐 Python | 📅 2024-11-14.
 * Enhancing Recommender Systems with Large Language Model Reasoning Graphs, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2308.10835).
 * Knowledge Adaptation from Large Language Model to Recommendation for Practical Industrial Application, arxiv 2024, [\[paper\]](https://arxiv.org/pdf/2405.03988).
 
 ### Perspective
 
-* Uncovering ChatGPT's Capabilities in Recommender Systems, RecSys 2023 LBR, [\[paper\]](https://arxiv.org/pdf/2305.02182), [\[code\]](https://github.com/rainym00d/LLM4RS) ⭐ 176 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-05-14.
+* Uncovering ChatGPT's Capabilities in Recommender Systems, RecSys 2023 LBR, [\[paper\]](https://arxiv.org/pdf/2305.02182), [\[code\]](https://github.com/rainym00d/LLM4RS) ⭐ 177 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-05-14.
 * Where to Go Next for Recommender Systems? ID- vs.Modality-based recommender models revisited, SIGIR 2023, [\[paper\]](https://arxiv.org/pdf/2303.13835.pdf), [\[code\]](https://github.com/westlake-repl/IDvs.MoRec) ⭐ 169 | 🐛 6 | 🌐 Python | 📅 2025-02-02
 * Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation, RecSys 2023 Short Paper, [\[paper\]](https://arxiv.org/pdf/2305.07609), [\[code\]](https://github.com/jizhi-zhang/FaiRLLM) ⭐ 44 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-06-15.
 * Language models as recommender systems: Evaluations and limitations, NeurIPS Workshop 2021, [\[paper\]](https://openreview.net/forum?id=hFx3fY7-m9b).
@@ -213,7 +213,7 @@ Welcome to open an issue or make a pull request!
 
 **Survey paper: Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2302.03735).**
 
-* Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), arvix 2022, [\[paper\]](https://arxiv.org/pdf/2203.13366),[\[code\]](https://github.com/jeykigung/P5) ⭐ 381 | 🐛 0 | 🌐 Python | 📅 2023-10-09.
+* Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), arvix 2022, [\[paper\]](https://arxiv.org/pdf/2203.13366),[\[code\]](https://github.com/jeykigung/P5) ⭐ 382 | 🐛 0 | 🌐 Python | 📅 2023-10-09.
 * Knowledge Prompt-tuning for Sequential Recommendation, ACM MM 2023, [\[paper\]](https://arxiv.org/pdf/2308.08459), [\[code\]](https://github.com/zhaijianyang/KP4SR) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2023-05-08.
 * Rethinking Reinforcement Learning for Recommendation: A Prompt Perspective, SIGIR 2022, [\[paper\]](https://arxiv.org/pdf/2206.07353).
 * M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems, arvix 2022, [\[paper\]](https://arxiv.org/pdf/2205.08084).
@@ -231,4 +231,4 @@ Welcome to open an issue or make a pull request!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
