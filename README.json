@@ -144,7 +144,7 @@
         {
           "node_type": "item",
           "title": "XRec: Large Language Models for Explainable Recommendation, arxiv 2024, [[paper]](XRec: Large Language Models for Explainable Recommendation), [code]",
-          "description": null,
+          "description": "HKUDS/XRec",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -358,7 +358,7 @@
         {
           "node_type": "item",
           "title": "ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation, arxiv 2024, [paper]",
-          "description": "[code]",
+          "description": "LaVieEnRose365/ReLLa",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -563,7 +563,7 @@
         {
           "node_type": "item",
           "title": "Common Sense Enhanced Knowledge-based Recommendation with Large Language Model, arxiv 2024, [paper]",
-          "description": "[code]",
+          "description": "ysh-1998/CSRec",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -584,7 +584,7 @@
         {
           "node_type": "item",
           "title": "A Large Language Model Enhanced Sequential Recommender for Joint Video and Comment Recommendation, arxiv 2024, [paper]",
-          "description": "[code]",
+          "description": "RUCAIBox/LSVCR",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -941,7 +941,7 @@
         {
           "node_type": "item",
           "title": "A Simple Convolutional Generative Network for Next Item Recommendation, WSDM 2018/08, [paper]",
-          "description": "[code]",
+          "description": "fajieyuan/WSDM2019-nextitnet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -976,7 +976,7 @@
         {
           "node_type": "item",
           "title": "Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation, WWW 2020/04, [paper]",
-          "description": "[code]",
+          "description": "fajieyuan/WWW2020-grec",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:27:06.578Z",
+    "last_updated": "2026-10-03T04:29:42.940Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
