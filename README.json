@@ -67,7 +67,7 @@
             "open_issues": 6,
             "owner": "RUCAIBox",
             "repo": "LLMRank",
-            "stars": 325,
+            "stars": 326,
             "topics": [
               "chatgpt",
               "large-language-models",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:44:43.398Z",
+    "last_updated": "2026-10-06T10:38:51.879Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
