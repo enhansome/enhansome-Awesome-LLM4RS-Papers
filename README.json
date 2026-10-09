@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "HKUDS",
             "repo": "RLMRec",
-            "stars": 462,
+            "stars": 463,
             "topics": [
               "collaborative-filtering",
               "graph-neural-networks",
@@ -133,7 +133,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2024-04-25T21:30:05Z",
-            "open_issues": 4,
+            "open_issues": 3,
             "owner": "Yueeeeeeee",
             "repo": "LlamaRec",
             "stars": 174,
@@ -157,7 +157,7 @@
             "open_issues": 6,
             "owner": "HKUDS",
             "repo": "XRec",
-            "stars": 171,
+            "stars": 172,
             "topics": [
               "explainable-ai",
               "large-language-models",
@@ -651,7 +651,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 533,
+                "stars": 534,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T00:57:32.097Z",
+    "last_updated": "2026-10-09T01:11:27.968Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
