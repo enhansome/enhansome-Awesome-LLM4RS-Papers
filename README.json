@@ -46,7 +46,7 @@
             "open_issues": 6,
             "owner": "agiresearch",
             "repo": "OpenP5",
-            "stars": 350,
+            "stars": 351,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T00:46:21.777Z",
+    "last_updated": "2026-10-11T00:13:21.205Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
