@@ -203,7 +203,7 @@
             "open_issues": 13,
             "owner": "ljy0ustc",
             "repo": "LLaRA",
-            "stars": 166,
+            "stars": 167,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -1153,7 +1153,7 @@
             "open_issues": 5,
             "owner": "westlake-repl",
             "repo": "NineRec",
-            "stars": 112,
+            "stars": 113,
             "topics": [
               "cross-domain-recommendation",
               "cross-platform-recommendation",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T00:30:15.893Z",
+    "last_updated": "2026-10-13T02:33:33.655Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
