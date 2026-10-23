@@ -157,7 +157,7 @@
             "open_issues": 6,
             "owner": "HKUDS",
             "repo": "XRec",
-            "stars": 172,
+            "stars": 173,
             "topics": [
               "explainable-ai",
               "large-language-models",
@@ -681,7 +681,7 @@
                 "open_issues": 7,
                 "owner": "YunjiaXi",
                 "repo": "Open-World-Knowledge-Augmented-Recommendation",
-                "stars": 112,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:21:29.364Z"
@@ -1082,7 +1082,7 @@
             "open_issues": 3,
             "owner": "westlake-repl",
             "repo": "MicroLens",
-            "stars": 309,
+            "stars": 310,
             "topics": [
               "audio-recommendation",
               "foundation-models",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T23:58:12.858Z",
+    "last_updated": "2026-10-23T23:50:39.907Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
