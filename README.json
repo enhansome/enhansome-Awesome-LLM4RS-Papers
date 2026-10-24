@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-06-26T19:57:38Z",
-            "open_issues": 8,
+            "open_issues": 10,
             "owner": "HKUDS",
             "repo": "RLMRec",
             "stars": 464,
@@ -775,7 +775,7 @@
                 "open_issues": 1,
                 "owner": "jizhi-zhang",
                 "repo": "FaiRLLM",
-                "stars": 44,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:21:29.364Z"
@@ -870,7 +870,7 @@
             "open_issues": 5,
             "owner": "yaochenzhu",
             "repo": "LLM4Rec",
-            "stars": 174,
+            "stars": 175,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -1082,7 +1082,7 @@
             "open_issues": 3,
             "owner": "westlake-repl",
             "repo": "MicroLens",
-            "stars": 310,
+            "stars": 311,
             "topics": [
               "audio-recommendation",
               "foundation-models",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T23:50:39.907Z",
+    "last_updated": "2026-10-24T23:08:48.758Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
