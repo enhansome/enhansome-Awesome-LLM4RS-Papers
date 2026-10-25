@@ -681,7 +681,7 @@
                 "open_issues": 7,
                 "owner": "YunjiaXi",
                 "repo": "Open-World-Knowledge-Augmented-Recommendation",
-                "stars": 113,
+                "stars": 114,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:21:29.364Z"
@@ -1082,7 +1082,7 @@
             "open_issues": 3,
             "owner": "westlake-repl",
             "repo": "MicroLens",
-            "stars": 311,
+            "stars": 312,
             "topics": [
               "audio-recommendation",
               "foundation-models",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T23:08:48.758Z",
+    "last_updated": "2026-10-25T23:12:37.500Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
