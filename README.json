@@ -115,7 +115,7 @@
             "open_issues": 14,
             "owner": "RUCAIBox",
             "repo": "LC-Rec",
-            "stars": 243,
+            "stars": 244,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T23:12:37.500Z",
+    "last_updated": "2026-10-27T00:23:34.769Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
@@ -1210,7 +1210,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-03-15T03:20:03Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "nancheng58",
       "repo": "Awesome-LLM4RS-Papers",
       "stars": 767,
