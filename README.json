@@ -245,7 +245,7 @@
             "open_issues": 0,
             "owner": "Shengxiang-Lin",
             "repo": "PGPO",
-            "stars": 138,
+            "stars": 139,
             "topics": [
               "privacy-preserving",
               "recommendation",
@@ -1227,7 +1227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T00:29:06.995Z",
+    "last_updated": "2026-10-29T00:52:14.824Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",

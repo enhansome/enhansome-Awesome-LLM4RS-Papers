@@ -43,7 +43,7 @@ Welcome to open an issue or make a pull request!
 
 * Zero-Shot Next-Item Recommendation using Large Pretrained Language Models, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2304.03153), [\[code\]](https://github.com/AGI-Edgerunners/LLM-Next-Item-Rec) ⭐ 142 | 🐛 3 | 🌐 Python | 📅 2023-05-09.
 
-* PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation, EMNLP 2026 Main, [\[paper\]](https://aclanthology.org/2026.emnlp-main.480/), [\[code\]](https://github.com/Shengxiang-Lin/PGPO) ⭐ 138 | 🐛 0 | 🌐 Python | 📅 2026-10-27.
+* PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation, EMNLP 2026 Main, [\[paper\]](https://aclanthology.org/2026.emnlp-main.480/), [\[code\]](https://github.com/Shengxiang-Lin/PGPO) ⭐ 139 | 🐛 0 | 🌐 Python | 📅 2026-10-27.
 
 * Leveraging Large Language Models for Sequential Recommendation, RecSys 2023 LBR, [\[paper\]](https://arxiv.org/pdf/2309.09261), [\[code\]](https://github.com/dh-r/LLM-Sequential-Recommendation) ⭐ 120 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-05.
 
@@ -361,4 +361,4 @@ Welcome to open an issue or make a pull request!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
