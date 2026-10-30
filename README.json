@@ -1108,7 +1108,7 @@
             "open_issues": 3,
             "owner": "westlake-repl",
             "repo": "MicroLens",
-            "stars": 312,
+            "stars": 313,
             "topics": [
               "audio-recommendation",
               "foundation-models",
@@ -1175,7 +1175,7 @@
             "id": 693014779,
             "language": "Python",
             "license": null,
-            "last_commit": "2024-10-06T11:46:10Z",
+            "last_commit": "2026-10-29T04:12:15Z",
             "open_issues": 5,
             "owner": "westlake-repl",
             "repo": "NineRec",
@@ -1227,7 +1227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T00:52:14.824Z",
+    "last_updated": "2026-10-30T00:55:15.191Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
@@ -1239,7 +1239,7 @@
       "open_issues": 0,
       "owner": "nancheng58",
       "repo": "Awesome-LLM4RS-Papers",
-      "stars": 767,
+      "stars": 766,
       "topics": [
         "awesome-list",
         "gpt",
