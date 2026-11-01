@@ -917,7 +917,7 @@
             "open_issues": 2,
             "owner": "RUCAIBox",
             "repo": "VQ-Rec",
-            "stars": 105,
+            "stars": 104,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -1227,7 +1227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T00:44:09.432Z",
+    "last_updated": "2026-11-01T00:04:33.787Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
