@@ -646,7 +646,7 @@
                 "open_issues": 4,
                 "owner": "LehengTHU",
                 "repo": "Agent4Rec",
-                "stars": 504,
+                "stars": 503,
                 "topics": [
                   "llm-based-agent",
                   "recommender-system"
@@ -1227,7 +1227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T00:04:33.787Z",
+    "last_updated": "2026-11-02T00:38:27.061Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
