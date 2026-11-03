@@ -245,7 +245,7 @@
             "open_issues": 0,
             "owner": "Shengxiang-Lin",
             "repo": "PGPO",
-            "stars": 139,
+            "stars": 140,
             "topics": [
               "privacy-preserving",
               "recommendation",
@@ -468,7 +468,7 @@
             "open_issues": 6,
             "owner": "liuqidong07",
             "repo": "LLMEmb",
-            "stars": 53,
+            "stars": 54,
             "topics": [
               "embeddings",
               "large-language-models",
@@ -677,7 +677,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 535,
+                "stars": 536,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -1213,7 +1213,7 @@
             "id": 754550804,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2024-03-27T07:31:00Z",
+            "last_commit": "2026-11-02T14:05:44Z",
             "open_issues": 0,
             "owner": "andreeaiana",
             "repo": "xMIND",
@@ -1227,7 +1227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T00:38:27.061Z",
+    "last_updated": "2026-11-03T02:53:23.722Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
