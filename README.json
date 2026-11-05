@@ -115,7 +115,7 @@
             "open_issues": 14,
             "owner": "RUCAIBox",
             "repo": "LC-Rec",
-            "stars": 245,
+            "stars": 244,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -224,7 +224,7 @@
             "open_issues": 0,
             "owner": "Shengxiang-Lin",
             "repo": "PGPO",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "privacy-preserving",
               "recommendation",
@@ -1227,7 +1227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T01:18:20.099Z",
+    "last_updated": "2026-11-05T01:26:40.118Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
