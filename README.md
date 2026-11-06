@@ -41,7 +41,7 @@ Welcome to open an issue or make a pull request!
 
 * LLaRA: Aligning Large Language Models with Sequential Recommenders, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2312.02445), [\[code\]](https://github.com/ljy0ustc/LLaRA) ⭐ 168 | 🐛 13 | 🌐 Python | 📅 2024-07-12.
 
-* PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation, EMNLP 2026 Main, [\[paper\]](https://aclanthology.org/2026.emnlp-main.480/), [\[code\]](https://github.com/Shengxiang-Lin/PGPO) ⭐ 147 | 🐛 0 | 🌐 Python | 📅 2026-10-27.
+* PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation, EMNLP 2026 Main, [\[paper\]](https://aclanthology.org/2026.emnlp-main.480/), [\[code\]](https://github.com/Shengxiang-Lin/PGPO) ⭐ 145 | 🐛 0 | 🌐 Python | 📅 2026-10-27.
 
 * Zero-Shot Next-Item Recommendation using Large Pretrained Language Models, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2304.03153), [\[code\]](https://github.com/AGI-Edgerunners/LLM-Next-Item-Rec) ⭐ 142 | 🐛 3 | 🌐 Python | 📅 2023-05-09.
 
@@ -55,7 +55,7 @@ Welcome to open an issue or make a pull request!
 
 * Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2305.13112), [\[code\]](https://github.com/RUCAIBox/iEvaLM-CRS) ⭐ 65 | 🐛 0 | 🌐 Python | 📅 2023-10-11.
 
-* LLMRec: Benchmarking Large Language Models on Recommendation Task, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2308.12241),[\[code\]](https://github.com/williamliujl/LLMRec) ⭐ 63 | 🐛 3 | 🌐 Python | 📅 2023-08-19.
+* LLMRec: Benchmarking Large Language Models on Recommendation Task, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2308.12241),[\[code\]](https://github.com/williamliujl/LLMRec) ⭐ 64 | 🐛 3 | 🌐 Python | 📅 2023-08-19.
 
 * ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation, arxiv 2024, [\[paper\]](https://arxiv.org/pdf/2308.11131) [\[code\]](https://github.com/LaVieEnRose365/ReLLa) ⭐ 58 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-03-08
 
@@ -323,7 +323,7 @@ Welcome to open an issue or make a pull request!
 
 * Towards Universal Sequence Representation Learning for Recommender Systems, KDD 2022, [\[paper\]](https://arxiv.org/pdf/2206.05941), [\[code\]](https://github.com/RUCAIBox/UniSRec) ⭐ 226 | 🐛 11 | 🌐 Python | 📅 2023-11-29.
 * Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020, [\[paper\]](https://arxiv.org/pdf/2001.04253), [\[code\]](https://github.com/fajieyuan/SIGIR2020_peterrec) ⭐ 208 | 🐛 11 | 🌐 Python | 📅 2024-03-15
-* Collaborative Large Language Model for Recommender Systems, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2311.01343), [\[code\]](https://github.com/yaochenzhu/llm4rec) ⭐ 175 | 🐛 5 | 🌐 Python | 📅 2024-08-07.
+* Collaborative Large Language Model for Recommender Systems, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2311.01343), [\[code\]](https://github.com/yaochenzhu/llm4rec) ⭐ 174 | 🐛 5 | 🌐 Python | 📅 2024-08-07.
 * Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders, WWW 2023, [\[paper\]](https://arxiv.org/pdf/2210.12316), [\[code\]](https://github.com/RUCAIBox/VQ-Rec) ⭐ 104 | 🐛 2 | 🌐 Python | 📅 2023-03-27.
 * One Person, One Model, One World: Learning Continual User Representation without Forgetting, SIGIR 2021, [\[paper\]](https://arxiv.org/pdf/2009.13724.pdf), [\[code\]](https://github.com/fajieyuan/SIGIR2021_Conure) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2024-03-15
 * ID-Agnostic User Behavior Pre-training for Sequential Recommendation, CCIR 2022, [\[paper\]](https://arxiv.org/pdf/2206.02323).
@@ -352,7 +352,7 @@ Welcome to open an issue or make a pull request!
 ## Dataset
 
 * A Content-Driven Micro-Video Recommendation Dataset at Scale, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.15379), [\[link\]](https://github.com/westlake-repl/MicroLens) ⭐ 313 | 🐛 3 | 🌐 Python | 📅 2026-03-19.
-* PixelRec: An Image Dataset for Benchmarking Recommender Systems with Raw Pixels, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.06789), [\[link\]](https://github.com/westlake-repl/PixelRec) ⭐ 188 | 🐛 1 | 🌐 Python | 📅 2025-03-19.
+* PixelRec: An Image Dataset for Benchmarking Recommender Systems with Raw Pixels, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.06789), [\[link\]](https://github.com/westlake-repl/PixelRec) ⭐ 187 | 🐛 1 | 🌐 Python | 📅 2025-03-19.
 * NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.07705), [\[link\]](https://github.com/westlake-repl/NineRec) ⭐ 113 | 🐛 5 | 🌐 Python | 📅 2026-10-29.
 * MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation, SIGIR 2024, [\[paper\]](https://arxiv.org/pdf/2403.17876), [\[link\]](https://github.com/andreeaiana/xMIND) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-11-02.
 * Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2307.09688), [\[KDD Cup 2023\]](https://kddcup23.github.io/).
@@ -361,4 +361,4 @@ Welcome to open an issue or make a pull request!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
