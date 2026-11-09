@@ -343,7 +343,7 @@ Welcome to open an issue or make a pull request!
 
 **Survey paper: Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2302.03735).**
 
-* Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), arvix 2022, [\[paper\]](https://arxiv.org/pdf/2203.13366),[\[code\]](https://github.com/jeykigung/P5) ⭐ 382 | 🐛 0 | 🌐 Python | 📅 2023-10-09.
+* Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), arvix 2022, [\[paper\]](https://arxiv.org/pdf/2203.13366),[\[code\]](https://github.com/jeykigung/P5) ⭐ 383 | 🐛 0 | 🌐 Python | 📅 2023-10-09.
 * Knowledge Prompt-tuning for Sequential Recommendation, ACM MM 2023, [\[paper\]](https://arxiv.org/pdf/2308.08459), [\[code\]](https://github.com/zhaijianyang/KP4SR) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2023-05-08.
 * Rethinking Reinforcement Learning for Recommendation: A Prompt Perspective, SIGIR 2022, [\[paper\]](https://arxiv.org/pdf/2206.07353).
 * M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems, arvix 2022, [\[paper\]](https://arxiv.org/pdf/2205.08084).
@@ -351,7 +351,7 @@ Welcome to open an issue or make a pull request!
 
 ## Dataset
 
-* A Content-Driven Micro-Video Recommendation Dataset at Scale, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.15379), [\[link\]](https://github.com/westlake-repl/MicroLens) ⭐ 313 | 🐛 3 | 🌐 Python | 📅 2026-03-19.
+* A Content-Driven Micro-Video Recommendation Dataset at Scale, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.15379), [\[link\]](https://github.com/westlake-repl/MicroLens) ⭐ 314 | 🐛 3 | 🌐 Python | 📅 2026-03-19.
 * PixelRec: An Image Dataset for Benchmarking Recommender Systems with Raw Pixels, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.06789), [\[link\]](https://github.com/westlake-repl/PixelRec) ⭐ 187 | 🐛 1 | 🌐 Python | 📅 2025-03-19.
 * NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation, arvix 2023, [\[paper\]](https://arxiv.org/pdf/2309.07705), [\[link\]](https://github.com/westlake-repl/NineRec) ⭐ 113 | 🐛 5 | 🌐 Python | 📅 2026-10-29.
 * MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation, SIGIR 2024, [\[paper\]](https://arxiv.org/pdf/2403.17876), [\[link\]](https://github.com/andreeaiana/xMIND) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-11-02.
@@ -361,4 +361,4 @@ Welcome to open an issue or make a pull request!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._

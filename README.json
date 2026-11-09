@@ -1060,7 +1060,7 @@
             "open_issues": 0,
             "owner": "jeykigung",
             "repo": "P5",
-            "stars": 382,
+            "stars": 383,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -1108,7 +1108,7 @@
             "open_issues": 3,
             "owner": "westlake-repl",
             "repo": "MicroLens",
-            "stars": 313,
+            "stars": 314,
             "topics": [
               "audio-recommendation",
               "foundation-models",
@@ -1227,7 +1227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T00:31:10.167Z",
+    "last_updated": "2026-11-09T00:48:41.846Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
