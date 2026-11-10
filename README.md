@@ -41,7 +41,7 @@ Welcome to open an issue or make a pull request!
 
 * LLaRA: Aligning Large Language Models with Sequential Recommenders, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2312.02445), [\[code\]](https://github.com/ljy0ustc/LLaRA) ⭐ 168 | 🐛 13 | 🌐 Python | 📅 2024-07-12.
 
-* PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation, EMNLP 2026 Main, [\[paper\]](https://aclanthology.org/2026.emnlp-main.480/), [\[code\]](https://github.com/Shengxiang-Lin/PGPO) ⭐ 145 | 🐛 0 | 🌐 Python | 📅 2026-11-06.
+* PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation, EMNLP 2026 Main, [\[paper\]](https://aclanthology.org/2026.emnlp-main.480/), [\[code\]](https://github.com/Shengxiang-Lin/PGPO) ⭐ 148 | 🐛 0 | 🌐 Python | 📅 2026-11-06.
 
 * Zero-Shot Next-Item Recommendation using Large Pretrained Language Models, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2304.03153), [\[code\]](https://github.com/AGI-Edgerunners/LLM-Next-Item-Rec) ⭐ 142 | 🐛 3 | 🌐 Python | 📅 2023-05-09.
 
@@ -285,7 +285,7 @@ Welcome to open an issue or make a pull request!
 
 ### Agent4Rec
 
-* On Generative Agents in Recommendation, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2310.10108), [\[code\]](https://github.com/LehengTHU/Agent4Rec) ⭐ 504 | 🐛 4 | 🌐 Python | 📅 2024-07-07.
+* On Generative Agents in Recommendation, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2310.10108), [\[code\]](https://github.com/LehengTHU/Agent4Rec) ⭐ 505 | 🐛 4 | 🌐 Python | 📅 2024-07-07.
 * AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation, arxiv 2026, [\[paper\]](https://arxiv.org/pdf/2601.00930).
 * Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems, EMNLP 2025, [\[paper\]](https://aclanthology.org/2025.emnlp-main.956).
 * When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2306.02552).
@@ -361,4 +361,4 @@ Welcome to open an issue or make a pull request!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._

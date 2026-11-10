@@ -224,7 +224,7 @@
             "open_issues": 0,
             "owner": "Shengxiang-Lin",
             "repo": "PGPO",
-            "stars": 145,
+            "stars": 148,
             "topics": [
               "privacy-preserving",
               "recommendation",
@@ -646,7 +646,7 @@
                 "open_issues": 4,
                 "owner": "LehengTHU",
                 "repo": "Agent4Rec",
-                "stars": 504,
+                "stars": 505,
                 "topics": [
                   "llm-based-agent",
                   "recommender-system"
@@ -1227,7 +1227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T00:48:41.846Z",
+    "last_updated": "2026-11-10T03:30:07.497Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
