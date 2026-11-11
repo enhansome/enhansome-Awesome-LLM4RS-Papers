@@ -31,7 +31,7 @@ Welcome to open an issue or make a pull request!
 
 * TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation, RecSys 2023 Short Paper, [\[paper\]](https://arxiv.org/pdf/2305.00447), [\[code\]](https://github.com/SAI990323/TALLRec) ⭐ 283 | 🐛 7 | 🌐 Python | 📅 2024-02-05.
 
-* Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2311.09049), [\[code\]](https://github.com/RUCAIBox/LC-Rec/) ⭐ 244 | 🐛 14 | 🌐 Python | 📅 2024-09-09.
+* Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2311.09049), [\[code\]](https://github.com/RUCAIBox/LC-Rec/) ⭐ 245 | 🐛 14 | 🌐 Python | 📅 2024-09-09.
 
 * LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, arxiv 2023, [\[paper\]](https://github.com/Yueeeeeeee/LlamaRec/blob/main/media/paper.pdf) ⭐ 174 | 🐛 3 | 🌐 Python | 📅 2024-04-25, [\[code\]](https://github.com/Yueeeeeeee/LlamaRec) ⭐ 174 | 🐛 3 | 🌐 Python | 📅 2024-04-25.
 
@@ -41,7 +41,7 @@ Welcome to open an issue or make a pull request!
 
 * LLaRA: Aligning Large Language Models with Sequential Recommenders, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2312.02445), [\[code\]](https://github.com/ljy0ustc/LLaRA) ⭐ 168 | 🐛 13 | 🌐 Python | 📅 2024-07-12.
 
-* PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation, EMNLP 2026 Main, [\[paper\]](https://aclanthology.org/2026.emnlp-main.480/), [\[code\]](https://github.com/Shengxiang-Lin/PGPO) ⭐ 148 | 🐛 0 | 🌐 Python | 📅 2026-11-06.
+* PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation, EMNLP 2026 Main, [\[paper\]](https://aclanthology.org/2026.emnlp-main.480/), [\[code\]](https://github.com/Shengxiang-Lin/PGPO) ⭐ 151 | 🐛 0 | 🌐 Python | 📅 2026-11-06.
 
 * Zero-Shot Next-Item Recommendation using Large Pretrained Language Models, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2304.03153), [\[code\]](https://github.com/AGI-Edgerunners/LLM-Next-Item-Rec) ⭐ 142 | 🐛 3 | 🌐 Python | 📅 2023-05-09.
 
@@ -361,4 +361,4 @@ Welcome to open an issue or make a pull request!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

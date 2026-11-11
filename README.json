@@ -115,7 +115,7 @@
             "open_issues": 14,
             "owner": "RUCAIBox",
             "repo": "LC-Rec",
-            "stars": 244,
+            "stars": 245,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -216,7 +216,7 @@
           "repo_info": {
             "archived": false,
             "description": "Official Repository for \"PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation\" (EMNLP 2026 MainConference)",
-            "homepage": "https://shengxiang-lin.github.io/PGPO/",
+            "homepage": "https://Shengxiang-Lin.github.io/PGPO/",
             "id": 1248029996,
             "language": "Python",
             "license": "MIT",
@@ -224,7 +224,7 @@
             "open_issues": 0,
             "owner": "Shengxiang-Lin",
             "repo": "PGPO",
-            "stars": 148,
+            "stars": 151,
             "topics": [
               "privacy-preserving",
               "recommendation",
@@ -1227,7 +1227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T03:30:07.497Z",
+    "last_updated": "2026-11-11T01:12:54.818Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
