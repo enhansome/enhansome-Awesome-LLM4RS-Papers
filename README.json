@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "HKUDS",
             "repo": "RLMRec",
-            "stars": 464,
+            "stars": 465,
             "topics": [
               "collaborative-filtering",
               "graph-neural-networks",
@@ -224,7 +224,7 @@
             "open_issues": 0,
             "owner": "Shengxiang-Lin",
             "repo": "PGPO",
-            "stars": 153,
+            "stars": 154,
             "topics": [
               "privacy-preserving",
               "recommendation",
@@ -646,7 +646,7 @@
                 "open_issues": 4,
                 "owner": "LehengTHU",
                 "repo": "Agent4Rec",
-                "stars": 505,
+                "stars": 506,
                 "topics": [
                   "llm-based-agent",
                   "recommender-system"
@@ -1227,7 +1227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T02:13:57.902Z",
+    "last_updated": "2026-11-13T01:47:34.115Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
