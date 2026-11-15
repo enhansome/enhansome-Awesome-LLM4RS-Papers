@@ -46,7 +46,7 @@
             "open_issues": 6,
             "owner": "agiresearch",
             "repo": "OpenP5",
-            "stars": 351,
+            "stars": 352,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -224,7 +224,7 @@
             "open_issues": 0,
             "owner": "Shengxiang-Lin",
             "repo": "PGPO",
-            "stars": 155,
+            "stars": 156,
             "topics": [
               "privacy-preserving",
               "recommendation",
@@ -518,7 +518,7 @@
             "open_issues": 0,
             "owner": "ysh-1998",
             "repo": "LRD",
-            "stars": 44,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -1227,7 +1227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T01:25:34.981Z",
+    "last_updated": "2026-11-15T00:59:33.723Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",

@@ -25,7 +25,7 @@ Welcome to open an issue or make a pull request!
 
 * Representation Learning with Large Language Models for Recommendation, WWW 2024, [\[paper\]](https://arxiv.org/pdf/2310.15950), [\[code\]](https://github.com/HKUDS/RLMRec) ⭐ 465 | 🐛 10 | 🌐 Python | 📅 2024-06-26.
 
-* OpenP5: An Open-Source Platform for Developing, Training, and Evaluating LLM-based Recommender Systems, Sigir 2024, [\[paper\]](https://arxiv.org/pdf/2310.09233), [\[code\]](https://github.com/agiresearch/OpenP5) ⭐ 351 | 🐛 6 | 🌐 Python | 📅 2025-03-04
+* OpenP5: An Open-Source Platform for Developing, Training, and Evaluating LLM-based Recommender Systems, Sigir 2024, [\[paper\]](https://arxiv.org/pdf/2310.09233), [\[code\]](https://github.com/agiresearch/OpenP5) ⭐ 352 | 🐛 6 | 🌐 Python | 📅 2025-03-04
 
 * Large Language Models are Zero-Shot Rankers for Recommender Systems, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2305.08845), [\[code\]](https://github.com/RUCAIBox/LLMRank) ⭐ 327 | 🐛 6 | 🌐 Python | 📅 2025-05-15.
 
@@ -41,7 +41,7 @@ Welcome to open an issue or make a pull request!
 
 * LLaRA: Aligning Large Language Models with Sequential Recommenders, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2312.02445), [\[code\]](https://github.com/ljy0ustc/LLaRA) ⭐ 168 | 🐛 13 | 🌐 Python | 📅 2024-07-12.
 
-* PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation, EMNLP 2026 Main, [\[paper\]](https://aclanthology.org/2026.emnlp-main.480/), [\[code\]](https://github.com/Shengxiang-Lin/PGPO) ⭐ 155 | 🐛 0 | 🌐 Python | 📅 2026-11-06.
+* PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation, EMNLP 2026 Main, [\[paper\]](https://aclanthology.org/2026.emnlp-main.480/), [\[code\]](https://github.com/Shengxiang-Lin/PGPO) ⭐ 156 | 🐛 0 | 🌐 Python | 📅 2026-11-06.
 
 * Zero-Shot Next-Item Recommendation using Large Pretrained Language Models, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2304.03153), [\[code\]](https://github.com/AGI-Edgerunners/LLM-Next-Item-Rec) ⭐ 142 | 🐛 3 | 🌐 Python | 📅 2023-05-09.
 
@@ -67,7 +67,7 @@ Welcome to open an issue or make a pull request!
 
 * Prompt Distillation for Efficient LLM-based Recommendation, CIKM 2023, [\[paper\]](https://lileipisces.github.io/files/CIKM23-POD-paper.pdf), [\[code\]](https://github.com/lileipisces/POD) ⭐ 52 | 🐛 2 | 🌐 Python | 📅 2025-01-24.
 
-* Sequential Recommendation with Latent Relations based on Large Language Model, SIGIR 2024, [\[paper\]](https://arxiv.org/pdf/2403.18348), [\[code\]](https://github.com/ysh-1998/lrd) ⭐ 44 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-11-03.
+* Sequential Recommendation with Latent Relations based on Large Language Model, SIGIR 2024, [\[paper\]](https://arxiv.org/pdf/2403.18348), [\[code\]](https://github.com/ysh-1998/lrd) ⭐ 45 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-11-03.
 
 * RDRec: Rationale Distillation for LLM-based Recommendation, ACL 2024 Main (short), [\[paper\]](https://arxiv.org/pdf/2405.10587), [\[code\]](https://github.com/WangXFng/RDRec) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2025-05-23.
 
@@ -361,4 +361,4 @@ Welcome to open an issue or make a pull request!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
