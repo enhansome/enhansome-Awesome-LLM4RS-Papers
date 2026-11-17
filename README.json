@@ -1227,7 +1227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T00:58:46.119Z",
+    "last_updated": "2026-11-17T03:46:49.569Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
@@ -1235,8 +1235,8 @@
       "id": 639286908,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-27T06:25:58Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-16T07:29:08Z",
+      "open_issues": 0,
       "owner": "nancheng58",
       "repo": "Awesome-LLM4RS-Papers",
       "stars": 766,
@@ -1252,7 +1252,7 @@
         "survey"
       ]
     },
-    "original_repository_sha": "df5e2b0f4c1336dd400bfeb2cf6d4e2e23beef0e",
+    "original_repository_sha": "24c4a4a09d4c5846867c1a342ba16a2cc2eba24b",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM4RS-Papers",
     "enhanced_repository_description": null,
     "title": "Awesome LLM4RS Papers with stars"
