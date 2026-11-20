@@ -46,7 +46,7 @@
             "open_issues": 6,
             "owner": "agiresearch",
             "repo": "OpenP5",
-            "stars": 352,
+            "stars": 351,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -203,7 +203,7 @@
             "open_issues": 13,
             "owner": "ljy0ustc",
             "repo": "LLaRA",
-            "stars": 168,
+            "stars": 169,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -220,7 +220,7 @@
             "id": 1248029996,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T11:14:27Z",
+            "last_commit": "2026-11-19T15:39:01Z",
             "open_issues": 0,
             "owner": "Shengxiang-Lin",
             "repo": "PGPO",
@@ -1227,7 +1227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T02:30:47.109Z",
+    "last_updated": "2026-11-20T02:16:05.874Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
@@ -1239,7 +1239,7 @@
       "open_issues": 0,
       "owner": "nancheng58",
       "repo": "Awesome-LLM4RS-Papers",
-      "stars": 766,
+      "stars": 765,
       "topics": [
         "awesome-list",
         "gpt",
