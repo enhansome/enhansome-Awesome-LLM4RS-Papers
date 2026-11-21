@@ -224,7 +224,7 @@
             "open_issues": 0,
             "owner": "Shengxiang-Lin",
             "repo": "PGPO",
-            "stars": 156,
+            "stars": 157,
             "topics": [
               "privacy-preserving",
               "recommendation",
@@ -313,7 +313,7 @@
             "open_issues": 1,
             "owner": "AaronHeee",
             "repo": "LLMs-as-Zero-Shot-Conversational-RecSys",
-            "stars": 86,
+            "stars": 87,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -677,7 +677,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 537,
+                "stars": 538,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -1227,7 +1227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T02:16:05.874Z",
+    "last_updated": "2026-11-21T02:09:58.697Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
