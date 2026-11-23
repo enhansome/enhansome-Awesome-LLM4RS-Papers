@@ -221,7 +221,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-19T15:39:01Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "Shengxiang-Lin",
             "repo": "PGPO",
             "stars": 157,
@@ -1227,7 +1227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T01:13:03.091Z",
+    "last_updated": "2026-11-23T01:37:35.094Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",

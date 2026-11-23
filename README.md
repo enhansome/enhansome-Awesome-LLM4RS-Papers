@@ -32,7 +32,7 @@ Welcome to open an issue or make a pull request!
 * XRec: Large Language Models for Explainable Recommendation, arxiv 2024, \[\[paper]]\(XRec: Large Language Models for Explainable Recommendation), [\[code\]](https://github.com/hkuds/xrec) ⭐ 173 | 🐛 6 | 🌐 Python | 📅 2024-09-24
 * A-LLMRec: Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System, KDD 2024, [\[paper\]](https://arxiv.org/pdf/2406.02844), [\[code\]](https://github.com/ghdtjr/A-LLMRec) ⭐ 171 | 🐛 8 | 🌐 Python | 📅 2025-04-01
 * LLaRA: Aligning Large Language Models with Sequential Recommenders, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2312.02445), [\[code\]](https://github.com/ljy0ustc/LLaRA) ⭐ 169 | 🐛 13 | 🌐 Python | 📅 2024-07-12.
-* PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation, EMNLP 2026 Main, [\[paper\]](https://aclanthology.org/2026.emnlp-main.480/), [\[code\]](https://github.com/Shengxiang-Lin/PGPO) ⭐ 157 | 🐛 1 | 🌐 Python | 📅 2026-11-19.
+* PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation, EMNLP 2026 Main, [\[paper\]](https://aclanthology.org/2026.emnlp-main.480/), [\[code\]](https://github.com/Shengxiang-Lin/PGPO) ⭐ 157 | 🐛 0 | 🌐 Python | 📅 2026-11-19.
 * Zero-Shot Next-Item Recommendation using Large Pretrained Language Models, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2304.03153), [\[code\]](https://github.com/AGI-Edgerunners/LLM-Next-Item-Rec) ⭐ 142 | 🐛 3 | 🌐 Python | 📅 2023-05-09.
 * Leveraging Large Language Models for Sequential Recommendation, RecSys 2023 LBR, [\[paper\]](https://arxiv.org/pdf/2309.09261), [\[code\]](https://github.com/dh-r/LLM-Sequential-Recommendation) ⭐ 120 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-05.
 * ONCE: Boosting Content-based Recommendation with Both Open- and Closed-source Large Language Models, WSDM 2024, [\[paper\]](https://arxiv.org/pdf/2305.06566), [\[code\]](https://github.com/Jyonn/ONCE) ⭐ 94 | 🐛 0 | 🌐 Python | 📅 2025-02-15.
@@ -234,4 +234,4 @@ Welcome to open an issue or make a pull request!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
