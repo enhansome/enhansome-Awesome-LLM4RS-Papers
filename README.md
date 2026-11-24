@@ -23,7 +23,7 @@ Welcome to open an issue or make a pull request!
 
 ## Paper List
 
-* Representation Learning with Large Language Models for Recommendation, WWW 2024, [\[paper\]](https://arxiv.org/pdf/2310.15950), [\[code\]](https://github.com/HKUDS/RLMRec) ⭐ 466 | 🐛 10 | 🌐 Python | 📅 2024-06-26.
+* Representation Learning with Large Language Models for Recommendation, WWW 2024, [\[paper\]](https://arxiv.org/pdf/2310.15950), [\[code\]](https://github.com/HKUDS/RLMRec) ⭐ 466 | 🐛 8 | 🌐 Python | 📅 2024-06-26.
 * OpenP5: An Open-Source Platform for Developing, Training, and Evaluating LLM-based Recommender Systems, Sigir 2024, [\[paper\]](https://arxiv.org/pdf/2310.09233), [\[code\]](https://github.com/agiresearch/OpenP5) ⭐ 351 | 🐛 6 | 🌐 Python | 📅 2025-03-04
 * Large Language Models are Zero-Shot Rankers for Recommender Systems, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2305.08845), [\[code\]](https://github.com/RUCAIBox/LLMRank) ⭐ 327 | 🐛 6 | 🌐 Python | 📅 2025-05-15.
 * TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation, RecSys 2023 Short Paper, [\[paper\]](https://arxiv.org/pdf/2305.00447), [\[code\]](https://github.com/SAI990323/TALLRec) ⭐ 283 | 🐛 7 | 🌐 Python | 📅 2024-02-05.
@@ -42,8 +42,8 @@ Welcome to open an issue or make a pull request!
 * LLMRec: Benchmarking Large Language Models on Recommendation Task, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2308.12241),[\[code\]](https://github.com/williamliujl/LLMRec) ⭐ 64 | 🐛 3 | 🌐 Python | 📅 2023-08-19.
 * ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation, arxiv 2024, [\[paper\]](https://arxiv.org/pdf/2308.11131) [\[code\]](https://github.com/LaVieEnRose365/ReLLa) ⭐ 58 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-03-08
 * E4SRec: An Elegant Effective Efficient Extensible Solution of Large Language Models for Sequential Recommendation, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2312.02443), [\[code\]](https://github.com/HestiaSky/E4SRec/) ⭐ 56 | 🐛 7 | 🌐 Python | 📅 2024-01-24.
+* Large Language Model Empowered Embedding Generator for Sequential Recommendation, arxiv 2024, [\[paper\]](http://arxiv.org/pdf/2409.19925), [\[code\]](https://github.com/liuqidong07/LLMEmb) ⭐ 55 | 🐛 6 | 🌐 Python | 📅 2025-03-13
 * Large Language Models Enhanced Sequential Recommendation for Long-tail User and Item, arxiv 2024, [\[paper\]](http://arxiv.org/pdf/2405.20646), [\[code\]](https://github.com/liuqidong07/LLM-ESR) ⭐ 54 | 🐛 2 | 🌐 Python | 📅 2026-06-20
-* Large Language Model Empowered Embedding Generator for Sequential Recommendation, arxiv 2024, [\[paper\]](http://arxiv.org/pdf/2409.19925), [\[code\]](https://github.com/liuqidong07/LLMEmb) ⭐ 54 | 🐛 6 | 🌐 Python | 📅 2025-03-13
 * Prompt Distillation for Efficient LLM-based Recommendation, CIKM 2023, [\[paper\]](https://lileipisces.github.io/files/CIKM23-POD-paper.pdf), [\[code\]](https://github.com/lileipisces/POD) ⭐ 52 | 🐛 2 | 🌐 Python | 📅 2025-01-24.
 * Sequential Recommendation with Latent Relations based on Large Language Model, SIGIR 2024, [\[paper\]](https://arxiv.org/pdf/2403.18348), [\[code\]](https://github.com/ysh-1998/lrd) ⭐ 45 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-11-03.
 * RDRec: Rationale Distillation for LLM-based Recommendation, ACL 2024 Main (short), [\[paper\]](https://arxiv.org/pdf/2405.10587), [\[code\]](https://github.com/WangXFng/RDRec) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2025-05-23.
@@ -234,4 +234,4 @@ Welcome to open an issue or make a pull request!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._

@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-06-26T19:57:38Z",
-            "open_issues": 10,
+            "open_issues": 8,
             "owner": "HKUDS",
             "repo": "RLMRec",
             "stars": 466,
@@ -425,6 +425,35 @@
         },
         {
           "node_type": "item",
+          "title": "Large Language Model Empowered Embedding Generator for Sequential Recommendation, arxiv 2024, [paper]",
+          "description": ", [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[AAAI'25 Oral] The official implementation code of LLMEmb",
+            "homepage": "https://arxiv.org/abs/2409.19925",
+            "id": 864068774,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-03-13T13:31:23Z",
+            "open_issues": 6,
+            "owner": "liuqidong07",
+            "repo": "LLMEmb",
+            "stars": 55,
+            "topics": [
+              "embeddings",
+              "large-language-models",
+              "llm",
+              "recommendation",
+              "recommender-system",
+              "sequential-models",
+              "sequential-recommendation"
+            ]
+          },
+          "first_seen": "2026-08-28T05:21:29.364Z"
+        },
+        {
+          "node_type": "item",
           "title": "Large Language Models Enhanced Sequential Recommendation for Long-tail User and Item, arxiv 2024, [paper]",
           "description": ", [code]",
           "children": [],
@@ -447,35 +476,6 @@
               "longtail",
               "recommendation",
               "recommender-system",
-              "sequential-recommendation"
-            ]
-          },
-          "first_seen": "2026-08-28T05:21:29.364Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Large Language Model Empowered Embedding Generator for Sequential Recommendation, arxiv 2024, [paper]",
-          "description": ", [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[AAAI'25 Oral] The official implementation code of LLMEmb",
-            "homepage": "https://arxiv.org/abs/2409.19925",
-            "id": 864068774,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-03-13T13:31:23Z",
-            "open_issues": 6,
-            "owner": "liuqidong07",
-            "repo": "LLMEmb",
-            "stars": 54,
-            "topics": [
-              "embeddings",
-              "large-language-models",
-              "llm",
-              "recommendation",
-              "recommender-system",
-              "sequential-models",
               "sequential-recommendation"
             ]
           },
@@ -1227,7 +1227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T01:37:35.094Z",
+    "last_updated": "2026-11-24T05:17:26.252Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
