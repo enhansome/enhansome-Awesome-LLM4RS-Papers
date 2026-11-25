@@ -157,7 +157,7 @@
             "open_issues": 6,
             "owner": "HKUDS",
             "repo": "XRec",
-            "stars": 173,
+            "stars": 174,
             "topics": [
               "explainable-ai",
               "large-language-models",
@@ -224,7 +224,7 @@
             "open_issues": 0,
             "owner": "Shengxiang-Lin",
             "repo": "PGPO",
-            "stars": 157,
+            "stars": 158,
             "topics": [
               "privacy-preserving",
               "recommendation",
@@ -1108,7 +1108,7 @@
             "open_issues": 3,
             "owner": "westlake-repl",
             "repo": "MicroLens",
-            "stars": 314,
+            "stars": 315,
             "topics": [
               "audio-recommendation",
               "foundation-models",
@@ -1227,7 +1227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T05:17:26.252Z",
+    "last_updated": "2026-11-25T04:08:20.817Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
