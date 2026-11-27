@@ -224,7 +224,7 @@
             "open_issues": 0,
             "owner": "Shengxiang-Lin",
             "repo": "PGPO",
-            "stars": 158,
+            "stars": 159,
             "topics": [
               "privacy-preserving",
               "recommendation",
@@ -1108,7 +1108,7 @@
             "open_issues": 3,
             "owner": "westlake-repl",
             "repo": "MicroLens",
-            "stars": 315,
+            "stars": 316,
             "topics": [
               "audio-recommendation",
               "foundation-models",
@@ -1227,7 +1227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T03:30:17.425Z",
+    "last_updated": "2026-11-27T03:36:46.888Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
@@ -1236,7 +1236,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-11-16T07:29:08Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "nancheng58",
       "repo": "Awesome-LLM4RS-Papers",
       "stars": 765,
