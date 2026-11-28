@@ -182,7 +182,7 @@
             "open_issues": 8,
             "owner": "ghdtjr",
             "repo": "A-LLMRec",
-            "stars": 172,
+            "stars": 173,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:29.364Z"
@@ -1227,7 +1227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:36:46.888Z",
+    "last_updated": "2026-11-28T03:16:17.959Z",
     "original_repository_info": {
       "archived": false,
       "description": " Large Language Model-enhanced Recommender System Papers",
